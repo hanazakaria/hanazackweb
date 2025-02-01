@@ -1,0 +1,122 @@
+{
+  "Nunito Sans": {
+    "fontFamily": "Nunito Sans",
+    "slug": "kubio-NunitoSans-200-latin",
+    "name": "Nunito Sans",
+    "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+    "fontFace": [
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "200",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-200italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "300",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-300italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "400",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-400italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "600",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-600italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "700",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-700italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "800",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-800italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "900",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-900italic-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "200",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-200normal-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "300",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-300normal-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "400",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-400normal-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "600",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-600normal-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "700",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-700normal-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "800",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-800normal-latin.woff2"]
+      },
+      {
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "900",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": ["NunitoSans-900normal-latin.woff2"]
+      }
+    ]
+  }
+}

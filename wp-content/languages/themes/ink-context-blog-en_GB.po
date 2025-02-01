@@ -1,0 +1,144 @@
+# Translation of Themes - Ink Context Blog in English (UK)
+# This file is distributed under the same license as the Themes - Ink Context Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-08 16:20:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Ink Context Blog\n"
+
+#. Theme Name of the theme
+#: style.css functions.php:276
+#, gp-priority: high
+msgid "Ink Context Blog"
+msgstr "Ink Context Blog"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The WordPress theme Ink Context Blog is a customizable, context-focused theme that is available for free. Selection of posts is based on various contexts, including category, date, and comment count. The customizer's preview allows you to access and fully customize the theme. Its sectioned and article-based HTML5 structure guarantees top SEO performance. For bloggers wishing to boost their online visibility and search engine rankings, the Ink Context Blog WordPress theme is a flexible, customizable, and SEO-friendly choice. Demo is here https://contextblog.postmagthemes.com/inkcontextblog"
+msgstr "The WordPress theme Ink Context Blog is a customizable, context-focused theme that is available for free. Selection of posts is based on various contexts, including category, date, and comment count. The Customiser's preview allows you to access and fully customise the theme. Its sectioned and article-based HTML5 structure guarantees top SEO performance. For bloggers wishing to boost their online visibility and search engine rankings, the Ink Context Blog WordPress theme is a flexible, customisable, and SEO-friendly choice. The demo is here: https://contextblog.postmagthemes.com/inkcontextblog."
+
+#: main-body/main-blog-section.php:62
+msgid "Next"
+msgstr "Next"
+
+#: main-body/main-blog-section.php:61
+msgid "Previous"
+msgstr "Previous"
+
+#: functions.php:248
+msgid "Related post settings"
+msgstr "Related post settings"
+
+#: functions.php:229
+msgid "Excerpt Length determines the no of words in short description."
+msgstr "Excerpt length determines the number of words in short description."
+
+#: functions.php:228
+msgid "Excerpt length"
+msgstr "Excerpt length"
+
+#: functions.php:211
+msgid "Show read more"
+msgstr "Show read more"
+
+#. translators: %s: Label
+#: functions.php:193
+msgid "Show %s"
+msgstr "Show %s"
+
+#: functions.php:178 functions.php:314 main-body/main-blog-section.php:18
+msgid "excerpt"
+msgstr "excerpt"
+
+#: functions.php:178 functions.php:312 main-body/main-blog-section.php:17
+msgid "comment"
+msgstr "comment"
+
+#: functions.php:178 functions.php:311 main-body/main-blog-section.php:16
+msgid "date"
+msgstr "date"
+
+#: functions.php:178 functions.php:310 main-body/main-blog-section.php:15
+msgid "meta"
+msgstr "meta"
+
+#: functions.php:178 functions.php:313 main-body/main-blog-section.php:14
+msgid "category"
+msgstr "category"
+
+#: functions.php:173 functions.php:265
+msgid "Title"
+msgstr "Title"
+
+#: functions.php:156
+msgid "Enable this section"
+msgstr "Enable this section"
+
+#: functions.php:121
+msgid "Blog post section"
+msgstr "Blog post section"
+
+#: functions.php:100
+msgid "Default header image"
+msgstr "Default header image"
+
+#: functions.php:58
+msgid "Support"
+msgstr "Support"
+
+#: functions.php:57
+msgid "Recommended Actions"
+msgstr "Recommended actions"
+
+#: functions.php:51
+msgid "Buy Premium version"
+msgstr "Buy the premium version"
+
+#: functions.php:47
+msgid "View documentation"
+msgstr "View documentation"
+
+#: functions.php:43
+msgid "View Demo Premium"
+msgstr "View demo premium"
+
+#: functions.php:39
+msgid "View Demo"
+msgstr "View demo"
+
+#: functions.php:35 functions.php:275
+msgid "Theme Details"
+msgstr "Theme details"
+
+#: functions.php:28
+msgid "Ink Context Blog setup"
+msgstr "Ink Context Blog setup"
+
+#. translators: theme version
+#: functions.php:30
+msgid "Welcome to %s - "
+msgstr "Welcome to %s – "
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://postmagthemes.com/"
+msgstr "https://postmagthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "postmagthemes.com"
+msgstr "postmagthemes.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/downloads/ink-context-blog-a-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/ink-context-blog-a-free-wordpress-theme/"

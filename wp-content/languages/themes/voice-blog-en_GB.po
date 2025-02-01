@@ -1,0 +1,665 @@
+# Translation of Themes - Voice Blog in English (UK)
+# This file is distributed under the same license as the Themes - Voice Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-12 08:57:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Voice Blog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Voice blog is a free WordPress theme that gives you a platform to express your story to the world. Let your dream be bigger than your fear. Voice blog can represent your voice of your dream. There many hidden features such as you can filter your post while displaying by recent date, highest number of comment or random published date. Your blog can be shown in multiple post slider section, blog section and sidebar latest post. Due to structure of voice blog designed with section and article, it has true search engine optimization capability ( SEO ). Heading tags are all well defined in main page and other detail pages. It is Gutenberg support theme. You can view Demo here: https://www.postmagthemes.com/demovoiceblog ."
+msgstr "Voice blog is a free WordPress theme that gives you a platform to express your story to the world. Let your dream be bigger than your fear. Voice blog can represent your voice of your dream. There many hidden features such as you can filter your post while displaying by recent date, highest number of comment or random published date. Your blog can be shown in multiple post slider section, blog section and sidebar latest post. Due to structure of voice blog designed with section and article, it has true search engine optimisation capability ( SEO ). Heading tags are all well defined in main page and other detail pages. It is Gutenberg support theme. You can view Demo here: https://www.postmagthemes.com/demovoiceblog ."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Voice Blog"
+msgstr "Voice Blog"
+
+#: inc/customizer/customizer.php:264
+msgid "Display image count"
+msgstr "Display image count"
+
+#: inc/customizer/customizer.php:248
+msgid "Display video count"
+msgstr "Display video count"
+
+#: inc/customizer/customizer.php:232
+msgid "Display blog post time ago"
+msgstr "Display blog post time ago"
+
+#: functions.php:532
+msgid "ago"
+msgstr "ago"
+
+#: functions.php:476
+msgid "%s min"
+msgid_plural "%s min"
+msgstr[0] "%s min"
+msgstr[1] "%s min"
+
+#: inc/customizer/customizer.php:295
+msgid "Number of word per minute read "
+msgstr "Number of words per minute read "
+
+#: inc/customizer/customizer.php:205 template-parts/content-list.php:21
+#: template-parts/content.php:23
+msgid "Read time"
+msgstr "Read time"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:53
+msgid "Theme : %2$s : by :  %1$s"
+msgstr "Theme : %2$s : by :  %1$s"
+
+#: inc/customizer/customizer.php:160
+msgid "Documents"
+msgstr "Documents"
+
+#: inc/customizer/customizer.php:103
+msgid "How to buy pro theme"
+msgstr "How to buy pro theme"
+
+#: inc/customizer/customizer.php:90
+msgid "Just quick setup"
+msgstr "Just quick setup"
+
+#: inc/customizer/customizer.php:78
+msgid "Setup site as blog page"
+msgstr "Setup site as blog page"
+
+#: inc/customizer/customizer.php:65
+msgid "Setup site as page"
+msgstr "Setup site as page"
+
+#: inc/customizer/customizer.php:64 inc/customizer/customizer.php:77
+#: inc/customizer/customizer.php:89 inc/customizer/customizer.php:102
+msgid "Video"
+msgstr "video"
+
+#: inc/customizer/customizer.php:51
+msgid "All documents"
+msgstr "All Documents"
+
+#: inc/customizer/customizer.php:50
+msgid "View"
+msgstr "View"
+
+#: inc/customizer/customizer.php:39
+msgid "Buy Pro Voice Blog"
+msgstr "Buy pro Voice Blog"
+
+#: inc/customizer/customizer.php:38
+msgid "Go Pro"
+msgstr "Go pro"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:47
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:44
+msgid "https://wordpress.org/"
+msgstr "https://en-gb.wordpress.org/"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: inc/custom-header.php:32
+msgid "Default Header Image"
+msgstr "Default header image"
+
+#: inc/customizer/customizer.php:910
+msgid "Full view at popup"
+msgstr "Full view at popup"
+
+#: inc/customizer/customizer.php:896
+msgid "Close at popup"
+msgstr "Close at popup"
+
+#: inc/customizer/customizer.php:881
+msgid "Enable popup window for read more"
+msgstr "Enable popup window for read more"
+
+#: inc/customizer/customizer.php:867
+msgid "Read more text"
+msgstr "Read more text"
+
+#: inc/customizer/customizer.php:853
+msgid "General setting section"
+msgstr "General setting section"
+
+#: inc/customizer/customizer.php:805
+msgid "Related post title"
+msgstr "Related post title"
+
+#: inc/customizer/customizer.php:789
+msgid "Display related post"
+msgstr "Display related post"
+
+#: inc/customizer/customizer.php:762
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer/customizer.php:762
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer/customizer.php:762
+msgid "Avatar"
+msgstr "Avatar"
+
+#: inc/customizer/customizer.php:755
+msgid "Author title"
+msgstr "Author title"
+
+#: inc/customizer/customizer.php:741
+msgid "Single page section"
+msgstr "Single page section"
+
+#: inc/customizer/customizer.php:698 inc/customizer/customizer.php:714
+msgid "Display quote"
+msgstr "Display quote"
+
+#: inc/customizer/customizer.php:670
+msgid "Image"
+msgstr "Image"
+
+#: inc/customizer/customizer.php:663 inc/customizer/customizer.php:842
+msgid "Number of post to show"
+msgstr "Number of posts to show"
+
+#: inc/customizer/customizer.php:649
+msgid "Select the post author"
+msgstr "Select the post author"
+
+#: inc/customizer/customizer.php:635
+msgid "Select the post among"
+msgstr "Select a post among"
+
+#: inc/customizer/customizer.php:618 inc/customizer/customizer.php:827
+msgid "Most commented "
+msgstr "Most commented "
+
+#: inc/customizer/customizer.php:589
+msgid "Latest Post"
+msgstr "Latest post"
+
+#: inc/customizer/customizer.php:579 inc/customizer/customizer.php:595
+msgid "Display sidebar post"
+msgstr "Display sidebar post"
+
+#: inc/customizer/customizer.php:563
+msgid "Sidebar section"
+msgstr "Sidebar section"
+
+#: inc/customizer/customizer.php:552
+msgid "Upload image"
+msgstr "Upload image"
+
+#: inc/customizer/customizer.php:534 inc/customizer/customizer.php:730
+msgid "Write about"
+msgstr "Write about"
+
+#: inc/customizer/customizer.php:502 inc/customizer/customizer.php:518
+msgid "Display about"
+msgstr "Display about"
+
+#: inc/customizer/customizer.php:484
+msgid "Display sidebar at every page"
+msgstr "Display sidebar in each page"
+
+#: inc/customizer/customizer.php:468
+msgid "Display sidebar at every post"
+msgstr "Display sidebar in each post"
+
+#: inc/customizer/customizer.php:445
+msgid "Enable Pinterest Icon"
+msgstr "Enable Pinterest icon"
+
+#: inc/customizer/customizer.php:432
+msgid "Enable YouTube Icon"
+msgstr "Enable YouTube icon"
+
+#: inc/customizer/customizer.php:419
+msgid "Enable Twitter icon"
+msgstr "Enable Twitter icon"
+
+#: inc/customizer/customizer.php:407
+msgid "Enable Facebook Icon"
+msgstr "Enable Facebook icon"
+
+#. translators: %s: Label
+#: inc/customizer/customizer.php:392
+msgid "%s Url"
+msgstr "%s URL"
+
+#: inc/customizer/customizer.php:382
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/customizer.php:382
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer/customizer.php:382
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/customizer.php:382
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/customizer.php:374
+msgid "Enable social link at bottom"
+msgstr "Enable social link at bottom"
+
+#: inc/customizer/customizer.php:363
+msgid "Title social link at sidebar"
+msgstr "Title social link in the sidebar"
+
+#: inc/customizer/customizer.php:359
+msgid "Stay connected"
+msgstr "Stay connected"
+
+#: inc/customizer/customizer.php:352
+msgid "Enable social link at sidebar"
+msgstr "Enable social link in the sidebar"
+
+#: inc/customizer/customizer.php:340
+msgid "Enable social link at top"
+msgstr "Enable social link at top"
+
+#: inc/customizer/customizer.php:329
+msgid "Social link section"
+msgstr "Social link section"
+
+#: inc/customizer/customizer.php:318
+msgid "Display site title at footer"
+msgstr "Display site title at footer"
+
+#: inc/customizer/customizer.php:304
+msgid "Footer section"
+msgstr "Footer section"
+
+#: inc/customizer/customizer.php:285
+msgid "list type"
+msgstr "list type"
+
+#: inc/customizer/customizer.php:284
+msgid "2 column type"
+msgstr "two column type"
+
+#: inc/customizer/customizer.php:279
+msgid "Display type"
+msgstr "Display type"
+
+#. translators: %s: Label
+#: inc/customizer/customizer.php:215 inc/customizer/customizer.php:680
+#: inc/customizer/customizer.php:772
+msgid "Display %s"
+msgstr "Display %s"
+
+#: inc/customizer/customizer.php:205 template-parts/content-list.php:45
+#: template-parts/content.php:48
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/customizer/customizer.php:205 template-parts/content-list.php:40
+#: template-parts/content.php:43
+msgid "Comment"
+msgstr "Comment"
+
+#: inc/customizer/customizer.php:205 inc/customizer/customizer.php:670
+#: template-parts/content-list.php:37 template-parts/content.php:40
+msgid "Date"
+msgstr "Date"
+
+#: inc/customizer/customizer.php:205 template-parts/content-list.php:17
+#: template-parts/content.php:19
+msgid "Category"
+msgstr "Category"
+
+#: inc/customizer/customizer.php:198
+msgid "Display blog post title"
+msgstr "Display blog post title"
+
+#: inc/customizer/customizer.php:192
+msgid "Blog Post"
+msgstr "Blog post"
+
+#: inc/customizer/customizer.php:184
+msgid "Below settings are applicable to archive and search page as well"
+msgstr "Below settings are applicable to archive and search page as well"
+
+#: inc/customizer/customizer.php:180
+msgid "Display blog post"
+msgstr "Display blog post"
+
+#: inc/customizer/customizer.php:166
+msgid "Blog post section"
+msgstr "Blog post section"
+
+#: inc/customizer/customizer.php:155
+msgid "Theme options"
+msgstr "Theme options"
+
+#: inc/customizer/customizer-color.php:40
+msgid "Main background color"
+msgstr "Main background colour"
+
+#: inc/customizer/customizer-color.php:34
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: inc/customizer/customizer-color.php:22
+msgid "Link hover color"
+msgstr "Link hover colour"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:84
+msgid "Tagged %1$s "
+msgstr "Tagged %1$s "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:81
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "| Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "| Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:39
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/dropdown-category.php:28
+msgid "Among All category "
+msgstr "Among all the categories"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:96
+#: inc/customizer/customizer.php:619 inc/customizer/customizer.php:828
+msgid "Random"
+msgstr "Random"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:93
+msgid "Most commented"
+msgstr "Most commented"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:90
+#: inc/customizer/customizer.php:617 inc/customizer/customizer.php:826
+msgid "Recently published date"
+msgstr "Recently published date"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:86
+#: inc/customizer/customizer.php:612 inc/customizer/customizer.php:821
+msgid "Order by"
+msgstr "Order by"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:82
+msgid "Number of posts to display"
+msgstr "Number of posts to display"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:64
+msgid "All category "
+msgstr "All the categories"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:61
+msgid "Select post among category"
+msgstr "Select post among the categories"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:37
+#: inc/dropdown-author.php:27
+msgid "All author "
+msgstr "All authors"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:33
+msgid "Select post among author"
+msgstr "Select post among the authors"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:13
+msgid "Displays multiple post banner layout"
+msgstr "Displays multiple post banner layout"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:12
+msgid "Built Style 4 - Multiple Post Banner"
+msgstr "Built Style 4 - Multiple Post Banner"
+
+#: inc/class-wp-bootsrtrap-navwalker.php:341
+msgid "Add a menu"
+msgstr "Add a menu"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:32
+msgid "Comments"
+msgstr "Comments"
+
+#: 404.php:21
+msgid "Go Home"
+msgstr "Go home"
+
+#: 404.php:20
+msgid "The page you are looking for was moved, removed, renamed or might never existed."
+msgstr "The page you are looking for was moved, removed, renamed or might never existed."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Page not found"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#. translators: %s: search query.
+#: search.php:30
+msgid "Search Results for: %s"
+msgstr "Search results for: %s"
+
+#: functions.php:426 inc/customizer/customizer.php:890
+msgid "Close"
+msgstr "Close"
+
+#: functions.php:419 inc/customizer/customizer.php:904
+msgid "Full view here"
+msgstr "Full view here"
+
+#: functions.php:410 inc/customizer/customizer.php:205
+#: inc/customizer/customizer.php:861
+msgid "Read more"
+msgstr "Read more"
+
+#: functions.php:250
+msgid "Frontpage layout 3 area"
+msgstr "Front page layout 3 area"
+
+#: functions.php:241
+msgid "Frontpage layout 2 area"
+msgstr "Front page layout 2 area"
+
+#: functions.php:234 functions.php:243 functions.php:252
+msgid "Design for custom built widget."
+msgstr "Design for custom built widget."
+
+#: functions.php:232
+msgid "Frontpage layout 1 area"
+msgstr "Front page layout 1 area"
+
+#: functions.php:223
+msgid "Footer Sidebar three"
+msgstr "Footer sidebar three"
+
+#: functions.php:214
+msgid "Side navbar"
+msgstr "Side navbar"
+
+#: functions.php:205
+msgid "Footer Sidebar two"
+msgstr "Footer sidebar two"
+
+#: functions.php:196
+msgid "Footer Sidebar one"
+msgstr "Footer sidebar one"
+
+#: functions.php:188 functions.php:198 functions.php:207 functions.php:216
+#: functions.php:225
+msgid "Design for in-built widgets."
+msgstr "Design for in-built widgets."
+
+#: functions.php:186
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:170
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:163
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#. translators: 1: date, 2: time
+#: functions.php:161
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#. translators: %s: author
+#: functions.php:144
+msgid "<cite class=\"fn mr-auto\">%s</cite>"
+msgstr "<cite class=\"fn mr-auto\">%s</cite>"
+
+#: functions.php:54
+msgid "Primary"
+msgstr "Primary"
+
+#: inc/customizer/customizer.php:724 sidebar.php:92
+msgid "this is my quote"
+msgstr "this is my quote"
+
+#: inc/customizer/customizer.php:708 sidebar.php:88
+msgid "Quotes Of The Day"
+msgstr "Quotes of the day"
+
+#: sidebar.php:50
+msgid "Latest Posts"
+msgstr "Latest posts"
+
+#: sidebar.php:28
+msgid "Stay Connected"
+msgstr "Stay connected"
+
+#: inc/customizer/customizer.php:528 sidebar.php:22
+msgid "Mauris eget pharetra lectus"
+msgstr "Mauris eget pharetra lectus"
+
+#: inc/customizer/customizer.php:512 sidebar.php:17
+msgid "About Me"
+msgstr "About me"
+
+#: inc/customizer/customizer.php:762 single.php:84
+msgid "Author section"
+msgstr "Author section"
+
+#: single.php:80
+msgid "Previous post"
+msgstr "Previous post"
+
+#: single.php:79
+msgid "Next post"
+msgstr "Next post"
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search;"
+msgstr "Search;"
+
+#: functions.php:412 functions.php:432
+#: template-parts/template-core/related-post.php:55
+msgid "Read More"
+msgstr "Read more"
+
+#: inc/customizer/customizer.php:799
+#: template-parts/template-core/related-post.php:19
+msgid "Related Posts"
+msgstr "Related posts"
+
+#: inc/customizer/customizer.php:749
+#: template-parts/template-core/author-section.php:6
+msgid "Author"
+msgstr "Author"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:94 template-parts/content-page.php:36
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:23
+msgid "Pages:"
+msgstr "Pages:"
+
+#: inc/class-voice-blog-multiple-post-banner-widget.php:143
+#: inc/customizer/customizer.php:205 template-parts/content-list.php:4
+#: template-parts/content.php:4
+#: template-parts/template-core/related-post.php:29
+msgid "Grey image if feature image is not used"
+msgstr "Grey image if featured image is not used"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: archive.php:67 archive.php:101 index.php:59 index.php:91 search.php:69
+#: search.php:103
+msgid "Next"
+msgstr "Next"
+
+#: archive.php:66 archive.php:100 index.php:58 index.php:90 search.php:68
+#: search.php:102
+msgid "Previous"
+msgstr "Previous"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/"
+msgstr "https://www.postmagthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "www.postmagthemes.com"
+msgstr "www.postmagthemes.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/downloads/voice-blog-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/voice-blog-free-wordpress-theme/"

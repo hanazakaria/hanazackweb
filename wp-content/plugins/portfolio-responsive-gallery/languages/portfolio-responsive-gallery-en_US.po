@@ -1,0 +1,693 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery – Photo Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-10 02:20+0400\n"
+"PO-Revision-Date: 2023-07-10 02:21+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:145
+#: ../admin/class-portfolio-responsive-gallery-admin.php:147
+#: ../portfolio-responsive-gallery.php:107
+msgid "Portfolio Responsive Gallery"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:153
+#: ../admin/class-portfolio-responsive-gallery-admin.php:154
+#: ../admin/class-portfolio-responsive-gallery-admin.php:249
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:12
+msgid "Portfolios"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:164
+#: ../admin/class-portfolio-responsive-gallery-admin.php:165
+#: ../admin/class-portfolio-responsive-gallery-admin.php:261
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:163
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:370
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:587
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:12
+msgid "Attributes"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:175
+#: ../admin/class-portfolio-responsive-gallery-admin.php:176
+msgid "How to use"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:194
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:195
+msgid "Demo"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:196
+msgid "Buy Now"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:327
+msgid "Gallery Photo Gallery"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:502
+msgid ""
+"Limited Time <span class='ays-prg-dicount-wrap-color'>50%</span> SALE on "
+"<br><span><a href='https://ays-pro.com/business-bundle' target='_blank' "
+"class='ays-prg-dicount-wrap-color ays-prg-dicount-wrap-text-decoration' "
+"style='display:block;'>Business Bundle</a></span> (All 13 Plugins)!"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:508
+msgid ""
+"Hurry up! Ends on November 26. <a href='https://ays-pro.com/business-bundle' "
+"target='_blank'>Check it out!</a>"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:548
+msgid "Buy Now !"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:552
+msgid "link"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:638
+msgid "Limited Time"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:638
+msgid "20%"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:639
+msgid "prg Maker Plugin"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:647
+msgid "Days"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:648
+msgid "Hours"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:649
+msgid "Minutes"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:650
+msgid "Seconds"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:664
+msgid "BUY NOW!"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:672
+msgid "Dismiss ad"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:691
+msgid "If you love our plugin, please do big favor and rate us on"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:23
+msgid "Demo name"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:24
+msgid "Demo description"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:30
+msgid "Add new portfolio"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:34
+msgid "Edit portfolio"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:90
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1189
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:107
+msgid "Save and close"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:92
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1191
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:109
+msgid "Save"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:97
+msgid "Projects"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:98
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:99
+msgid "Project Settings"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:105
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:109
+msgid "Portfolio Name"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:115
+msgid "Portfolio Description"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:130
+msgid "Add Project"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:131
+msgid "Create your portfolio projects"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:132
+msgid "Add project +"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:134
+msgid "Delete all projects"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:155
+msgid "No name"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:159
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:366
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:583
+msgid "General"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:161
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:368
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:585
+msgid "Options"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:179
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:613
+msgid "Select project main image"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:193
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:198
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:399
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:404
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:651
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:656
+msgid "Project name"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:204
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:410
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:663
+msgid "Project description"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:237
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:241
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:444
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:449
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:697
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:702
+msgid "Project url"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:250
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:458
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:712
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1055
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1084
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1113
+msgid "This feature is available only in "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:251
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:459
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:713
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1056
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1085
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1114
+msgid "PRO version!!!"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:258
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:466
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:720
+msgid "Project Audio"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:262
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:470
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:724
+msgid "Select music"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:283
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:492
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:747
+msgid "Set your project options"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:287
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:496
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:751
+msgid "Open URL in new tab"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:302
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:511
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:767
+msgid "Set your project attributes"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:823
+msgid "Set up your portfolio"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:824
+msgid "General options"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:829
+msgid "Show portfolio header"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:831
+msgid ""
+"You can decide whether to show the title and description of the portfolio or "
+"not"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:837
+msgid "Show portfolio title "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:841
+msgid "If it is marked it will show the title"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:845
+msgid "Show portfolio description "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:849
+msgid "If it is marked it will show the description"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:860
+msgid "Show project labels"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:862
+msgid ""
+"Show the name and description label next to the name and description written "
+"inside the project popup."
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:868
+msgid "Name "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:871
+msgid "Description "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:882
+msgid "Projects main image size"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:884
+msgid ""
+"The size of the project main image in portfolio. For optimize page speed "
+"recomended \"Medium\" or \"Medium_large\"."
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:891
+msgid "Full size"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:912
+msgid "Images loading"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:914
+msgid ""
+"The images are loaded according to two principles: already loaded portfolio "
+"with images and at first opens portfolio after then the images"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:921
+msgid "Global loading "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:926
+msgid "Lazy loading "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:937
+msgid "Portfolio Width"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:939
+msgid "This field shows the width of the Portfolio"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:947
+#, no-php-format
+msgid "For 100% leave blank or 0"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:954
+msgid "Portfolio view type"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:976
+msgid "Columns count"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:978
+msgid "The counts of the columns of the Portfolio"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:985
+msgid "Default"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:987
+msgid "Default: 3"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:994
+msgid "Set up your projects"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:995
+msgid "Projects settings"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1000
+msgid "Show title of project"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1002
+msgid "The name of the project is written in the below of it"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1008
+msgid "Show title "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1013
+msgid "Show on"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1014
+msgid "Project hover "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1018
+msgid "Project thumbnail "
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1029
+msgid "Lightbox image fit"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1063
+msgid "Animate In"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1072
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1101
+msgid "-Default-"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1092
+msgid "Animate Out"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1120
+msgid "Animation speed (in ms)"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:8
+msgid "Add new attribute"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:18
+msgid "Edit attribute"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:42
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:253
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:464
+msgid "Name"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:53
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:254
+msgid "Slug"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:64
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:255
+msgid "Type"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:69
+msgid "Text"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:70
+msgid "Textarea"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:71
+msgid "E-Mail"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:72
+msgid "Number"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:73
+msgid "Telephone"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:74
+msgid "URL"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:75
+msgid "Date"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:83
+msgid "Attribute status"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:91
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:236
+msgid "Published"
+msgstr ""
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:97
+msgid "Unpublished"
+msgstr ""
+
+#: ../admin/partials/attributes/portfolio-responsive-gallery-attributes-display.php:19
+#: ../admin/partials/portfolio-responsive-gallery-admin-display.php:21
+msgid "Add New"
+msgstr ""
+
+#: ../admin/partials/attributes/portfolio-responsive-gallery-attributes-display.php:30
+#: ../admin/partials/portfolio-responsive-gallery-admin-display.php:32
+msgid "Search"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:16
+#, php-format
+msgid ""
+"How to create a simple portfolio in 3 steps with the help of the %s "
+"Portfolio Responsive Gallery %s plugin."
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:28
+#, php-format
+msgid ""
+"Go to the %s Portfolios %s page and build your first Portfolio Responsive "
+"Gallery by clicking on the %s Add New %s button."
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:37
+msgid "Fill out the information by adding a title, projects and so on."
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:42
+#, php-format
+msgid ""
+"Copy the %s shortcode %s of the Portfolio Responsive Gallery and paste it "
+"into any post․"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:51
+msgid ""
+"Congrats! You have already created your first Portfolio Responsive Gallery."
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:59
+msgid "Community"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:66
+msgid "YouTube community"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:69
+msgid "Subscribe"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:76
+msgid "Free support"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:79
+msgid "Join"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:86
+msgid "Premium support"
+msgstr ""
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:89
+msgid "Contact"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:11
+msgid "Attribute"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:169
+msgid "There are no portfolio attributes yet."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:225
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:411
+msgid "Edit"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:226
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:287
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:412
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:496
+msgid "Delete"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:239
+msgid "Unublished"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:256
+msgid "Status"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:257
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:469
+msgid "ID"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:382
+msgid "Portfolio attribute created."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:384
+msgid "Portfolio attribute saved."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:386
+msgid "Portfolio attribute deleted."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:355
+msgid "There are no portfolios yet."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:443
+msgid "This portfolio has no images"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:465
+msgid "Image"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:466
+msgid "Description"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:467
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:468
+msgid "Projects Count"
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:597
+msgid "Portfolio created."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:599
+msgid "Portfolio saved."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:601
+msgid "Portfolio deleted."
+msgstr ""
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:603
+msgid ""
+"You're not allowed to add portfolio for more galleries please checkout to <a "
+"href='http://ays-pro.com/index.php/wordpress/portfolio-responsive-gallery' "
+"target='_blank'>PRO version</a>."
+msgstr ""
+
+#: ../public/class-portfolio-responsive-gallery-public.php:596
+msgid "Name:"
+msgstr ""
+
+#: ../public/class-portfolio-responsive-gallery-public.php:604
+msgid "Description:"
+msgstr ""
+
+#: ../public/class-portfolio-responsive-gallery-public.php:613
+msgid "Project page"
+msgstr ""
+
+#: ../public/class-portfolio-responsive-gallery-public.php:614
+msgid "See more"
+msgstr ""

@@ -1,0 +1,318 @@
+/*!
+Theme Name: Ink Context Blog
+Theme URI: https://www.postmagthemes.com/downloads/ink-context-blog-a-free-wordpress-theme/
+Author: postmagthemes.com
+Author URI: https://postmagthemes.com/
+Description: The WordPress theme Ink Context Blog is a customizable, context-focused theme that is available for free. Selection of posts is based on various contexts, including category, date, and comment count. The customizer's preview allows you to access and fully customize the theme. Its sectioned and article-based HTML5 structure guarantees top SEO performance. For bloggers wishing to boost their online visibility and search engine rankings, the Ink Context Blog WordPress theme is a flexible, customizable, and SEO-friendly choice. Demo is here https://contextblog.postmagthemes.com/inkcontextblog
+Version: 1.0.5
+Requires at least: 4.5
+Tested up to: 6.6
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ink-context-blog
+Template: context-blog
+Tags: blog, entertainment, one-column, two-columns, left-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, footer-widgets, theme-options, threaded-comments
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+context-blog is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Generic
+    - Normalize
+    - Box sizing
+# Base
+    - Typography
+    - Elements
+    - Links
+    - Forms
+## Layouts
+# Components
+    - Navigation
+    - Posts and pages
+    - Comments
+    - Widgets
+    - Media
+    - Captions
+    - Galleries
+# plugins
+    - Jetpack infinite scroll
+# Utilities
+    - Accessibility
+    - Alignments
+
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Generic
+--------------------------------------------------------------*/
+
+/* Normalize
+--------------------------------------------- */
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+     ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+/* add for child version */
+
+/* menu */
+
+.header .site-navigation {
+    box-shadow: 0px -1px 5px rgb(11 11 11 / 10%);
+}
+
+.header .site-navigation,
+#main-menu .menu-description {
+    background-color: rgb(255, 255, 255);
+}
+#main-menu li a.nav-link,
+#main-menu .menu-description {
+    color: black;
+}
+
+/* Header site title setting */
+
+.banner-author-holder .banner-author-info h1 a, 
+.banner-author-holder .banner-author-info p,
+p.site-title a,
+.site-description,
+.bread-title {
+    color: #404040;
+}
+
+.banner-author-holder .banner-author-info h1 a {
+    font-size: 8vw;
+}
+.banner-author-holder .banner-author-info {
+    top: 18%;
+}
+
+/* related post title */
+
+.main-blog .related-post-mainblog .blog-content h5.title {
+    font-size: 15px;
+}
+.main-blog h4.other-title {
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline 2px #ccd4da;
+    text-underline-offset: 4px;
+}
+aside .sidebar-title,
+.related-post-block {
+    text-decoration: underline 2px #ccd4da;
+    text-underline-offset: 4px;
+}
+.related-post-mainblog .row >div {
+    padding-right: 10px; 
+    padding-left: 10px;
+}
+.related-post-mainblog .row {
+justify-content: center;
+}
+
+h3.title a,
+h5.title a {
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+h3.sidebar-custom-title,
+.sidebar-title h2, 
+.sidebar-title h3, 
+.sidebar-title h4, 
+.sidebar-title h5, 
+.sidebar-title h6,
+h3.title a,
+h5.title a,
+.home-section h2.about-author-title a, .home-section h2.main-title,
+.home-section h3.other-title,
+.detail-page-body h2.comments-title,
+.detail-page-body h2.other-title,
+.detail-page-body h3.comment-reply-title,
+.home-section.widget_block h2,
+.home-section.widget_block h3,
+.home-section.widget_block h4,
+.home-section.widget_block h5,
+.home-section.widget_block h6,
+.main-blog h4.other-title {
+    color: #404040;
+    font-family: 'Courgette', cursive;
+}
+
+.page-404 .page-text,
+.bread-title,
+.banner-author-holder .banner-author-info p,
+.banner-author-holder .banner-author-info h1 a,
+p.site-title,
+h1.site-title,
+.header .t-header-holder span.site-title a,
+.top-header p.site-description {
+    font-family: 'Courgette', cursive;
+}
+
+body {
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    color: #777777;
+}
+
+button, input, select, optgroup, textarea {
+    font-family: 'Muli', sans-serif;
+}
+
+/* strat from here in pro add */
+.btn {
+    font-size: 14px;
+}
+.category-tag,
+.category-tag li a {
+    font-size: 12px;
+    
+}
+.category-tag li a {
+    text-decoration: solid;
+}
+/* border at meta */
+ul.extra-info {
+    border: 1px solid #f1f0f0;
+    border-style: solid none;
+    padding: 5px 0 5px 0;
+    font-size: 12px;
+} 
+.excerpt {
+    color: #777777;
+}
+.extra-info, .extra-info span, .extra-info span a {
+    color: #999999;
+}
+.extra-info li {
+    margin: 5px 10px 5px 0px; 
+}
+.btn-text {
+    padding-right: 0px;
+}
+
+.home-section h3.title, .archive h3.title, .search h3.title {
+    font-size: 20px;
+}
+.footer h3.title {
+    font-size: 16px;
+
+}
+#main img, aside img, footer img, .archive img, .search img, aside .latest-sider .slick-list {
+    border-radius: 15px;
+}
+#main .modal img {
+    border-radius: unset;
+    width: auto;
+    max-width: auto;
+}
+.masionary-view .main-blog-snippet {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.home-section {
+    padding: 90px 0;
+}
+.sm-clean a, .sm-clean a:hover,
+#main-menu li ul li a:hover,#main-menu li ul li a {
+    font-family: 'Muli', sans-serif;
+}
+
+.footer-news ul.extra-info {
+
+border: none;
+padding: 0;
+}
+
+@media (max-width: 991px) {
+    .main-blog .related-post-mainblog .blog-content h3.title a  {
+        font-size: 14px;
+    }
+    .main-blog-holder .main-blog-body .blog-snippet, 
+    .archive .main-blog-body .blog-snippet, 
+    .search .main-blog-body .blog-snippet {
+        margin: 0 0 25px;
+    }
+    .header #main-menu {
+        background: white !important; 
+        
+    }
+    #main-menu li a.nav-link, #side-menu li a.nav-link {
+        color: black !important; 
+    }
+
+}
+
+@media (max-width:  575px) {
+    .main-blog-holder .main-blog-body .blog-snippet, 
+    .archive .main-blog-body .blog-snippet, 
+    .search .main-blog-body .blog-snippet {
+        margin: 0 0 10px;
+    }
+
+}
+
+/* reduce image height */
+
+@media (min-width: 991px) {
+
+    .single-blog > .blog-snippet > a {
+      display: inline;
+    }
+    .single-blog > .blog-snippet > a.img-holder>img {
+      object-fit: cover;
+      margin: 2px 2px 20px;
+    }
+    .col-lg-8 .single-blog > .blog-snippet > a.img-holder>img {
+      height: 345px;
+    }
+    .col-lg-12 .single-blog > .blog-snippet > a.img-holder>img {
+      height: 520px;
+    }
+  }
+
+  /* added since version 1.0.2 */
+/* dimenson of img of slider maintain with the design 
+    --------------------------------------------- */
+    .home img,
+    #main img,
+    aside img,
+    .archive img,
+    .search img {
+        max-width: 100%;
+    }
+    .header .top-header .logo img {
+        width: 100%;
+    }
+    aside img,
+    aside a.img-holder {
+        width: 100%;
+    }
+    /* aside fullwidth slider image dimension maintain */
+    aside .full-width img {
+        min-height: 491px;
+        object-fit: cover;
+    }
+
+
+/* end */

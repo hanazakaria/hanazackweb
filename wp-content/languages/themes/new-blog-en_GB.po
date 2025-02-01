@@ -1,0 +1,619 @@
+# Translation of Themes - New Blog in English (UK)
+# This file is distributed under the same license as the Themes - New Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-14 08:15:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - New Blog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "New blog theme is fairly developed theme. It supports Gutenberg editor. It has clean looks and smooth presentation ideally suited for personal blog and magazine type blog. It has used all customizer options available in WordPress. New blog theme is totally controlled and accesed from customizer view. It's design as per demo can be totally achieved from customizer option. Custom widget has been avoided so that even the novice user can use this theme. Many premium features have been provided as free features so that all basics and advance features can be utilized. This is complete package for well content website making business. You can preview demo here: \" http://postmagthemes.com/demonewblog/ \""
+msgstr "The New Blog theme is a fairly well developed theme. It supports the Gutenberg editor. It has clean looks and a smooth presentation, ideally suited for a personal blog and magazine type blog. It has used all Customiser options available in WordPress. The New Blog theme is totally controlled and accessed from the Customiser view. Its design, as per the demo, can be totally achieved from the Customiser option. The custom widget has been avoided, so that even the novice user can use this theme. Many premium features have been provided as free features, so that all basic and advanced features can be utilised. This is a complete package for good content websites. You can preview the demo here: \" http://postmagthemes.com/demonewblog/ \""
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "New Blog"
+msgstr "New Blog"
+
+#: inc/customizer/customizer.php:1202
+msgid "Enable popup window for read more"
+msgstr "Enable popup window for read more"
+
+#: functions.php:397
+msgid "%s word"
+msgid_plural "%s words"
+msgstr[0] "%s word"
+msgstr[1] "%s words"
+
+#: inc/customizer/customizer.php:311 template-parts/content-1colume.php:46
+#: template-parts/content.php:39
+msgid "Wordcount"
+msgstr "Word count"
+
+#: inc/customizer/customizer.php:1045
+msgid "Previous Post Float Display"
+msgstr "Previous Post Float Display"
+
+#: inc/customizer/customizer.php:1029
+msgid "Next Post Float Display"
+msgstr "Next Post Float Display"
+
+#: inc/customizer/customizer.php:311 inc/customizer/customizer.php:1119
+#: single.php:157 template-parts/content-1colume.php:40
+#: template-parts/content.php:33
+msgid "TimeAgo"
+msgstr "Time ago"
+
+#: inc/customizer/customizer.php:381
+msgid "Number of Words per Minute Read"
+msgstr "Number of Words per Minute Read"
+
+#: inc/customizer/customizer.php:367
+msgid "Enable/Disable Minutes Read Count"
+msgstr "Enable/Disable Minutes Read Count"
+
+#: functions.php:373
+msgid "%s min"
+msgid_plural "%s min"
+msgstr[0] "%s min"
+msgstr[1] "%s mins"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:90
+msgid "Theme : %2$s : by :  %1$s"
+msgstr "Theme : %2$s : by :  %1$s"
+
+#: inc/customizer/customizer.php:39
+msgid "Buy Pro New Blog"
+msgstr "Buy Pro New Blog"
+
+#: inc/customizer/customizer.php:38
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: single.php:77
+msgid "Previous post"
+msgstr "Previous post"
+
+#: single.php:76
+msgid "Next post"
+msgstr "Next post"
+
+#: inc/customizer/customizer.php:653
+msgid "Display Sidebar on page"
+msgstr "Display sidebar on page"
+
+#: sidebar.php:28
+msgid "Stay Connected"
+msgstr "Stay connected"
+
+#. translators: %s: search query.
+#: search.php:30
+msgid "Search Results for: %s"
+msgstr "Search results for: %s"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing found"
+
+#: single.php:43 template-parts/content-page.php:24
+msgid "Pages :"
+msgstr "Pages:"
+
+#: functions.php:214
+msgid "Footer Sidebar two"
+msgstr "Footer sidebar two"
+
+#: functions.php:205
+msgid "Footer Sidebar one"
+msgstr "Footer sidebar one"
+
+#: functions.php:197 functions.php:207 functions.php:216
+msgid "Add widgets here."
+msgstr "Add widgets here."
+
+#: functions.php:195
+msgid "Sidebar one"
+msgstr "Sidebar one"
+
+#: functions.php:179
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:172
+msgid "(Edit)"
+msgstr "(edit)"
+
+#. translators: 1: date, 2: time
+#: functions.php:170
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#. translators: %s: author
+#: functions.php:152
+msgid "<cite class=\"fn mr-auto\">%s</cite>"
+msgstr "<cite class=\"fn mr-auto\">%s</cite>"
+
+#: functions.php:56
+msgid "Sidemenu"
+msgstr "Side menu"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Primary"
+
+#: inc/css/css-customize.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/css/css-customize.php:45
+msgid "Widget Title"
+msgstr "Widget title"
+
+#: inc/css/css-customize.php:41
+msgid "Readmore"
+msgstr "Read more"
+
+#: inc/css/css-customize.php:37
+msgid "Leave comment"
+msgstr "Leave comment"
+
+#: inc/css/css-customize.php:34
+msgid "Postdate, Author & Tag"
+msgstr "Post date, Author &amp; Tag"
+
+#: inc/css/color-luminance.php:11 inc/css/css-customize.php:11
+msgid "#b29700"
+msgstr "#b29700"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:94 template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:84
+msgid "Tagged %1$s "
+msgstr "Tagged %1$s "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:81
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "/ Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Leave a comment on <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:39
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/customizer/customizer.php:1186
+msgid "Read more text"
+msgstr "Read more text"
+
+#: inc/customizer/customizer.php:1180
+msgid "Read more"
+msgstr "Read more"
+
+#: inc/customizer/customizer.php:1172
+msgid "General setting section"
+msgstr "General setting section"
+
+#: inc/customizer/customizer.php:1155
+msgid "Box width banner slider"
+msgstr "Box width banner slider"
+
+#: inc/customizer/customizer.php:1141
+msgid "General layout section"
+msgstr "General layout section"
+
+#: inc/customizer/customizer.php:1077
+msgid "Related post title"
+msgstr "Related post title"
+
+#: inc/customizer/customizer.php:1061
+msgid "Display Related post"
+msgstr "Display related post"
+
+#: inc/customizer/customizer.php:1003 single.php:107
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer/customizer.php:1003 single.php:100
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/customizer/customizer.php:1003 single.php:89
+msgid "Avatar"
+msgstr "Avatar"
+
+#: inc/customizer/customizer.php:1003 single.php:80
+msgid "AuthorSection"
+msgstr "Author section"
+
+#: inc/customizer/customizer.php:996
+msgid "Author title"
+msgstr "Author title"
+
+#: inc/customizer/customizer.php:983
+msgid "Single page section"
+msgstr "Single page section"
+
+#: inc/customizer/customizer.php:972
+msgid "Write About"
+msgstr "Write about"
+
+#: inc/customizer/customizer.php:966 sidebar.php:132
+msgid "this is my quote"
+msgstr "This is my quote"
+
+#: inc/customizer/customizer.php:950 sidebar.php:128
+msgid "Quotes Of The Day"
+msgstr "Quotes of the day"
+
+#: inc/customizer/customizer.php:940 inc/customizer/customizer.php:956
+msgid "Display Quote"
+msgstr "Display quote"
+
+#: inc/customizer/customizer.php:847 sidebar.php:92
+msgid "Latest Posts"
+msgstr "Latest posts"
+
+#: inc/customizer/customizer.php:837 inc/customizer/customizer.php:853
+msgid "Display Sidebar post"
+msgstr "Display sidebar post"
+
+#: inc/customizer/customizer.php:749
+msgid "Display slider at sidebar"
+msgstr "Display slider at sidebar"
+
+#: inc/customizer/customizer.php:734
+msgid "Sidebar section"
+msgstr "Sidebar section"
+
+#: inc/customizer/customizer.php:722
+msgid "Upload a image"
+msgstr "Upload a image"
+
+#: inc/customizer/customizer.php:704
+msgid "Write about"
+msgstr "Write about"
+
+#: inc/customizer/customizer.php:698 sidebar.php:22
+msgid "Mauris eget pharetra lectus"
+msgstr "\"mauris eget pharetra lectus\""
+
+#: inc/customizer/customizer.php:682 sidebar.php:17
+msgid "About Me"
+msgstr "About me"
+
+#: inc/customizer/customizer.php:672 inc/customizer/customizer.php:688
+msgid "Display about"
+msgstr "Display about"
+
+#: inc/customizer/customizer.php:637
+msgid "Display Sidebar"
+msgstr "Display sidebar"
+
+#: inc/customizer/customizer.php:619
+msgid "Enable pinterest Icon"
+msgstr "Enable Pinterest icon"
+
+#: inc/customizer/customizer.php:606
+msgid "Enable youtube Icon"
+msgstr "Enable YouTube icon"
+
+#: inc/customizer/customizer.php:593
+msgid "Enable twitter Icon"
+msgstr "Enable Twitter icon"
+
+#: inc/customizer/customizer.php:581
+msgid "Enable facebook Icon"
+msgstr "Enable Facebook icon"
+
+#. translators: %s: Label
+#: inc/customizer/customizer.php:566
+msgid "%s Url"
+msgstr "%s URL"
+
+#: inc/customizer/customizer.php:556
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/customizer.php:556
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer/customizer.php:556
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/customizer.php:556
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/customizer.php:548
+msgid "Enable Social link at bottom"
+msgstr "Enable social link at the bottom"
+
+#: inc/customizer/customizer.php:537
+msgid "Title Social link at sidebar"
+msgstr "Title social link at the sidebar"
+
+#: inc/customizer/customizer.php:533
+msgid "Stay connected"
+msgstr "Stay connected"
+
+#: inc/customizer/customizer.php:526
+msgid "Enable Social link at sidebar"
+msgstr "Enable social link at the sidebar"
+
+#: inc/customizer/customizer.php:514
+msgid "Enable Social link at top"
+msgstr "Enable social link at the top"
+
+#: inc/customizer/customizer.php:502
+msgid "Social link section"
+msgstr "Social link section"
+
+#: inc/customizer/customizer.php:491
+msgid "Display site title at footer"
+msgstr "Display site title at the footer"
+
+#: inc/customizer/customizer.php:405
+msgid "Display Footer slider"
+msgstr "Display footer slider"
+
+#: inc/customizer/customizer.php:391
+msgid "Footer section"
+msgstr "Footer section"
+
+#: inc/customizer/customizer.php:344
+msgid "2 colume type"
+msgstr "2 column type"
+
+#: inc/customizer/customizer.php:343
+msgid "1 colume type"
+msgstr "1 column type"
+
+#: inc/customizer/customizer.php:338
+msgid "Display type"
+msgstr "Display type"
+
+#: inc/customizer/customizer.php:311 inc/customizer/customizer.php:1119
+#: single.php:166 template-parts/content-1colume.php:56
+#: template-parts/content.php:49
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/customizer/customizer.php:311 template-parts/content-1colume.php:32
+#: template-parts/content.php:24
+msgid "Comment"
+msgstr "Comment"
+
+#: inc/customizer/customizer.php:311 inc/customizer/customizer.php:912
+#: inc/customizer/customizer.php:1119 sidebar.php:112 single.php:153
+#: template-parts/content-1colume.php:29 template-parts/content.php:21
+msgid "Date"
+msgstr "Date"
+
+#: inc/customizer/customizer.php:305
+msgid "Below settings are applicable to archive and search page as well"
+msgstr "Below settings are applicable to archive and search page as well"
+
+#: inc/customizer/customizer.php:301
+msgid "Display Blog post"
+msgstr "Display blog post"
+
+#: inc/customizer/customizer.php:287
+msgid "Blog post section"
+msgstr "Blog post section"
+
+#: inc/customizer/customizer.php:265 inc/customizer/customizer.php:311
+#: inc/customizer/customizer.php:464 inc/customizer/customizer.php:808
+#: inc/customizer/customizer.php:1119 index.php:56 sidebar.php:65
+#: template-parts/content-1colume.php:4 template-parts/content.php:4
+msgid "UseBlankImage"
+msgstr "Use blank image"
+
+#: inc/customizer/customizer.php:206
+msgid "Display Feature post"
+msgstr "Display featured post"
+
+#: inc/customizer/customizer.php:192
+msgid "Feature post section"
+msgstr "Featured post section"
+
+#. translators: %s: Label
+#: inc/customizer/customizer.php:181 inc/customizer/customizer.php:275
+#: inc/customizer/customizer.php:321 inc/customizer/customizer.php:474
+#: inc/customizer/customizer.php:818 inc/customizer/customizer.php:922
+#: inc/customizer/customizer.php:1013 inc/customizer/customizer.php:1129
+msgid "%s display"
+msgstr "%s display"
+
+#: inc/customizer/customizer.php:171 inc/customizer/customizer.php:265
+#: inc/customizer/customizer.php:311 inc/customizer/customizer.php:808
+#: inc/customizer/customizer.php:1119 index.php:69 sidebar.php:77
+#: single.php:149 template-parts/content-1colume.php:16
+#: template-parts/content-banner.php:28 template-parts/content.php:17
+msgid "Category"
+msgstr "Category"
+
+#: inc/customizer/customizer.php:171 inc/customizer/customizer.php:311
+#: inc/customizer/customizer.php:1119 single.php:176
+#: template-parts/content-1colume.php:23 template-parts/content-banner.php:40
+#: template-parts/content.php:58
+msgid "ReadMore"
+msgstr "Read more"
+
+#: inc/customizer/customizer.php:171 inc/customizer/customizer.php:1119
+#: single.php:172 template-parts/content-banner.php:35
+msgid "Excerpt"
+msgstr "Excerpt"
+
+#: inc/customizer/customizer.php:164 inc/customizer/customizer.php:258
+#: inc/customizer/customizer.php:457 inc/customizer/customizer.php:801
+#: inc/customizer/customizer.php:905 inc/customizer/customizer.php:1112
+msgid "Number of post to show"
+msgstr "Number of post to show"
+
+#: inc/customizer/customizer.php:150 inc/customizer/customizer.php:244
+#: inc/customizer/customizer.php:443 inc/customizer/customizer.php:787
+#: inc/customizer/customizer.php:891
+msgid "Select the post among"
+msgstr "Select the post among"
+
+#: inc/customizer/customizer.php:135 inc/customizer/customizer.php:229
+#: inc/customizer/customizer.php:428 inc/customizer/customizer.php:772
+#: inc/customizer/customizer.php:876 inc/customizer/customizer.php:1099
+msgid "Most commented "
+msgstr "Most commented "
+
+#: inc/customizer/customizer.php:134 inc/customizer/customizer.php:228
+#: inc/customizer/customizer.php:427 inc/customizer/customizer.php:771
+#: inc/customizer/customizer.php:875 inc/customizer/customizer.php:1098
+msgid "Recent publish date"
+msgstr "Recent published date"
+
+#: inc/customizer/customizer.php:129 inc/customizer/customizer.php:223
+#: inc/customizer/customizer.php:422 inc/customizer/customizer.php:766
+#: inc/customizer/customizer.php:870 inc/customizer/customizer.php:1093
+msgid "Order by"
+msgstr "Order by"
+
+#: inc/customizer/customizer.php:112
+msgid "Display Banner slider"
+msgstr "Display banner slider"
+
+#: inc/customizer/customizer.php:98
+msgid "Banner slider section"
+msgstr "Banner slider section"
+
+#: inc/customizer/customizer.php:79
+msgid "Theme options"
+msgstr "Theme options"
+
+#: inc/dropdown-category.php:28
+msgid "Among All category "
+msgstr "Among all category "
+
+#: inc/class-wp-bootsrtrap-navwalker.php:341
+msgid "Add a menu"
+msgstr "Add a menu"
+
+#: inc/custom-header.php:32
+msgid "Default Header Image"
+msgstr "Default header image"
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search;"
+msgstr "Search:"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:84
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:81
+msgid "https://wordpress.org/"
+msgstr "https://en-gb.wordpress.org/"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: 404.php:21
+msgid "Go Home"
+msgstr "Go to home"
+
+#: 404.php:20
+msgid "The page you are looking for was moved, removed, renamed or might never existed."
+msgstr "The page you are looking for was moved, removed, renamed or might never existed."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Page not found"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: single.php:178 template-parts/content-1colume.php:24
+#: template-parts/content-banner.php:43 template-parts/content-banner.php:44
+#: template-parts/content-banner.php:47 template-parts/content.php:61
+#: template-parts/content.php:62 template-parts/content.php:65
+msgid "Read More"
+msgstr "Read more"
+
+#: inc/customizer/customizer.php:1071 single.php:137
+msgid "Related Posts"
+msgstr "Related posts"
+
+#: inc/customizer/customizer.php:990 single.php:86
+msgid "Author"
+msgstr "Author"
+
+#: archive.php:63 archive.php:96 index.php:116 index.php:147 search.php:65
+#: search.php:98
+msgid "Next"
+msgstr "Next"
+
+#: archive.php:62 archive.php:95 index.php:115 index.php:146 search.php:64
+#: search.php:97
+msgid "Previous"
+msgstr "Previous"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:32
+msgid "Comments"
+msgstr "Comments"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/"
+msgstr "https://www.postmagthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "www.postmagthemes.com"
+msgstr "www.postmagthemes.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/downloads/new-blog-a-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/new-blog-a-free-wordpress-theme/"

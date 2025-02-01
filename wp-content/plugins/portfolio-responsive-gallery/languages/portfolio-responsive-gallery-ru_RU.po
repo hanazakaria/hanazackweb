@@ -1,0 +1,2238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery – Photo Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-02 15:35+0400\n"
+"PO-Revision-Date: 2024-09-02 15:36+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:138
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:139
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:107
+msgid "Click for copy."
+msgstr "Нажмите, чтобы скопировать."
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:153
+#: ../admin/class-portfolio-responsive-gallery-admin.php:155
+#: ../admin/class-portfolio-responsive-gallery-admin.php:813
+#: ../portfolio-responsive-gallery.php:108
+msgid "Portfolio Responsive Gallery"
+msgstr "Portfolio Responsive Gallery"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:161
+#: ../admin/class-portfolio-responsive-gallery-admin.php:162
+#: ../admin/class-portfolio-responsive-gallery-admin.php:257
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:12
+msgid "Portfolios"
+msgstr "Портфолио"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:172
+#: ../admin/class-portfolio-responsive-gallery-admin.php:173
+#: ../admin/class-portfolio-responsive-gallery-admin.php:269
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:180
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:387
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:604
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:12
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:183
+#: ../admin/class-portfolio-responsive-gallery-admin.php:184
+msgid "How to use"
+msgstr "Как пользоваться"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:202
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:203
+msgid "Demo"
+msgstr "Демо"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:204
+#: ../portfolio-responsive-gallery.php:115
+msgid "Upgrade"
+msgstr "Обновить"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:334
+msgid "Gallery Photo Gallery"
+msgstr "Gallery Photo Gallery"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:520
+msgid ""
+"<span><a href='https://ays-pro.com/wordpress/portfolio-responsive-gallery?"
+"utm_source=dashboard&utm_medium=prg-free&utm_campaign=sale-banner' "
+"target='_blank' style='color:#ffffff; text-decoration: underline;'>Portfolio "
+"Responsive Gallery</a></span>"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:532
+msgid "30 Day Money Back Guarantee"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:565
+#: ../admin/class-portfolio-responsive-gallery-admin.php:919
+msgid "Offer ends in:"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:589
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:591
+#: ../portfolio-responsive-gallery.php:117
+msgid "One-time payment"
+msgstr ""
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:616
+msgid ""
+"Limited Time <span class='ays-prg-dicount-wrap-color'>50%</span> SALE on "
+"<br><span><a href='https://ays-pro.com/business-bundle' target='_blank' "
+"class='ays-prg-dicount-wrap-color ays-prg-dicount-wrap-text-decoration' "
+"style='display:block;'>Business Bundle</a></span> (All 13 Plugins)!"
+msgstr ""
+"Limited Time <span class='ays-prg-dicount-wrap-color'>50%</span> SALE on "
+"<br><span><a href='https://ays-pro.com/business-bundle' target='_blank' "
+"class='ays-prg-dicount-wrap-color ays-prg-dicount-wrap-text-decoration' "
+"style='display:block;'>Business Bundle</a></span> (All 13 Plugins)!"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:622
+msgid ""
+"Hurry up! Ends on November 26. <a href='https://ays-pro.com/business-bundle' "
+"target='_blank'>Check it out!</a>"
+msgstr ""
+"Hurry up! Ends on November 26. <a href='https://ays-pro.com/business-bundle' "
+"target='_blank'>Check it out!</a>"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:662
+#: ../admin/class-portfolio-responsive-gallery-admin.php:943
+msgid "Buy Now !"
+msgstr "Купить сейчас !"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:666
+msgid "link"
+msgstr "ссылка"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:752
+#: ../admin/class-portfolio-responsive-gallery-admin.php:812
+msgid "Limited Time"
+msgstr "Ограниченный срок"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:752
+msgid "20%"
+msgstr "20%"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:753
+msgid "prg Maker Plugin"
+msgstr "prg Maker Plugin"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:761
+#: ../admin/class-portfolio-responsive-gallery-admin.php:825
+msgid "Days"
+msgstr "Days"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:762
+#: ../admin/class-portfolio-responsive-gallery-admin.php:826
+msgid "Hours"
+msgstr "Hours"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:763
+#: ../admin/class-portfolio-responsive-gallery-admin.php:827
+msgid "Minutes"
+msgstr "Minutes"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:764
+#: ../admin/class-portfolio-responsive-gallery-admin.php:828
+msgid "Seconds"
+msgstr "Seconds"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:778
+msgid "BUY NOW!"
+msgstr "КУПИ СЕЙЧАС!"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:786
+#: ../admin/class-portfolio-responsive-gallery-admin.php:851
+msgid "Dismiss ad"
+msgstr "Dismiss ad"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:812
+msgid "Sale"
+msgstr "Распродажа"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:817
+#, fuzzy, no-php-format
+#| msgid "20% off"
+msgid "30% off"
+msgstr "20% off"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:842
+msgid "Get Your Deal"
+msgstr "Get Your Deal"
+
+#: ../admin/class-portfolio-responsive-gallery-admin.php:989
+msgid "If you love our plugin, please do big favor and rate us on"
+msgstr "Если вам нравится наш плагин, пожалуйста оцените нас на"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:24
+msgid "Demo name"
+msgstr "Название демо"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:25
+msgid "Demo description"
+msgstr "Описание демо"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:31
+msgid "Add new portfolio"
+msgstr "Добавить новое портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:35
+msgid "Edit portfolio"
+msgstr "Изменить портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:93
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1233
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:107
+msgid "Save and close"
+msgstr "Сохранить и закрыть"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:95
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1235
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:109
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:102
+msgid "Shortcode text for editor"
+msgstr "Текст шорткода для редактора"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:106
+#, fuzzy
+#| msgid ""
+#| "To insert the Gallery into a page, post or text widget, copy shortcode"
+msgid ""
+"To insert the Portfolio into a page, post or text widget, copy shortcode"
+msgstr ""
+"Чтобы вставить галерею на страницу, публикацию или текстовый виджет, "
+"скопируйте шорткод"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:108
+msgid "and paste it at the desired place in the editor."
+msgstr "и вставьте его в нужное место в редакторе."
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:114
+msgid "Projects"
+msgstr "Проекты"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:115
+msgid "Portfolio Settings"
+msgstr "Настройки портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:116
+msgid "Project Settings"
+msgstr "Настройки проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:122
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:126
+msgid "Portfolio Name"
+msgstr "Название портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:132
+msgid "Portfolio Description"
+msgstr "Описание портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:147
+msgid "Add Project"
+msgstr "Добавить проект"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:148
+msgid "Create your portfolio projects"
+msgstr "Создавайте свое портфолио проектов"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:149
+msgid "Add project +"
+msgstr "Добавить проект +"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:151
+msgid "Delete all projects"
+msgstr "Удалить все проекты"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:172
+msgid "No name"
+msgstr "Без имени"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:176
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:383
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:600
+msgid "General"
+msgstr "Главная"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:178
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:385
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:602
+msgid "Options"
+msgstr "Опции"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:196
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:630
+msgid "Select project main image"
+msgstr "Выбрать главное изображение проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:210
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:215
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:416
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:421
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:668
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:673
+msgid "Project name"
+msgstr "Название проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:221
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:427
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:680
+msgid "Project description"
+msgstr "Описание Проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:254
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:258
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:461
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:466
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:714
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:719
+msgid "Project url"
+msgstr "URL-адрес проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:267
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:475
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:729
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1099
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1128
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1157
+msgid "This feature is available only in "
+msgstr "Эта функция доступна только в "
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:268
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:476
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:730
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1100
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1129
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1158
+msgid "PRO version!!!"
+msgstr "PRO версиi!!!"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:275
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:483
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:737
+msgid "Project Audio"
+msgstr "Аудио проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:279
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:487
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:741
+msgid "Select music"
+msgstr "Выберите музыку"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:300
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:509
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:764
+msgid "Set your project options"
+msgstr "Установите параметры вашего проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:304
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:513
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:768
+msgid "Open URL in new tab"
+msgstr "Открыть URL в новой вкладке"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:319
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:528
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:784
+msgid "Set your project attributes"
+msgstr "Установите атрибуты вашего проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:840
+msgid "Set up your portfolio"
+msgstr "Настройте свое портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:841
+msgid "General options"
+msgstr "Общие настройки"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:846
+msgid "Show portfolio header"
+msgstr "Показать заголовок портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:848
+msgid ""
+"You can decide whether to show the title and description of the portfolio or "
+"not"
+msgstr "Вы можете решить, показывать заголовок и описание портфолио или нет"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:854
+msgid "Show portfolio title "
+msgstr "Показать название портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:858
+msgid "If it is marked it will show the title"
+msgstr "Если он помечен, то будет показан заголовок"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:862
+msgid "Show portfolio description "
+msgstr "Показать описание портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:866
+msgid "If it is marked it will show the description"
+msgstr "Если он помечен, то будет показано его описание"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:877
+msgid "Show project labels"
+msgstr "Показывать ярлыки проектов"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:879
+msgid ""
+"Show the name and description label next to the name and description written "
+"inside the project popup."
+msgstr ""
+"Покажите метку с названием и описанием рядом с названием и описанием, "
+"написанными во всплывающем окне проекта."
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:885
+msgid "Name "
+msgstr "Имя"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:888
+msgid "Description "
+msgstr "Описание"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:900
+#, fuzzy
+#| msgid "Portfolio Settings"
+msgid "Portfolio name text transform"
+msgstr "Настройки портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:902
+msgid ""
+"Specify the text transformation of the portfolio name that will be displayed,"
+"such as converting to uppercase or lowercase."
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:909
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1029
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:910
+msgid "Capitalize"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:911
+msgid "Uppercase"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:912
+msgid "Lowercase"
+msgstr ""
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:921
+msgid "Projects main image size"
+msgstr "Размер основного изображения проектов"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:923
+msgid ""
+"The size of the project main image in portfolio. For optimize page speed "
+"recomended \"Medium\" or \"Medium_large\"."
+msgstr ""
+"Размер основного изображения проекта в портфолио. Для оптимизации скорости "
+"страницы рекомендуется использовать \"Medium\" или \"Medium Large\"."
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:930
+msgid "Full size"
+msgstr "Полный размер"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:951
+msgid "Images loading"
+msgstr "Загрузка изображений"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:953
+msgid ""
+"The images are loaded according to two principles: already loaded portfolio "
+"with images and at first opens portfolio after then the images"
+msgstr ""
+"Изображения загружаются в соответствии с двумя принципами: уже загруженное "
+"портфолио с изображениями и сначала открывается портфолио, а затем "
+"изображения"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:960
+msgid "Global loading "
+msgstr "Глобальная загрузка "
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:965
+msgid "Lazy loading "
+msgstr "Отложенная загрузка "
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:976
+msgid "Portfolio Width"
+msgstr "Ширина портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:978
+msgid "This field shows the width of the Portfolio"
+msgstr "В этом поле отображается ширина портфеля."
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:987
+#, no-php-format
+msgid "For 100% leave blank or 0"
+msgstr "Для 100% оставьте поле пустым или 0"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:998
+msgid "Portfolio view type"
+msgstr "Тип просмотра портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1020
+msgid "Columns count"
+msgstr "Количество столбцов"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1022
+msgid "The counts of the columns of the Portfolio"
+msgstr "Количество столбцов в портфолио"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1031
+msgid "Default: 3"
+msgstr "По умолчанию: 3"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1038
+msgid "Set up your projects"
+msgstr "Создавайте свои проекты"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1039
+msgid "Projects settings"
+msgstr "Настройки проектов"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1044
+msgid "Show title of project"
+msgstr "Показать название проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1046
+msgid "The name of the project is written in the below of it"
+msgstr "Название проекта написано ниже"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1052
+msgid "Show title "
+msgstr "Показать название "
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1057
+msgid "Show on"
+msgstr "Показать"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1058
+msgid "Project hover "
+msgstr "Наведение курсора на проект"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1062
+msgid "Project thumbnail "
+msgstr "Миниатюра проекта"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1073
+msgid "Lightbox image fit"
+msgstr "Изображение в лайтбоксе подходит"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1107
+msgid "Animate In"
+msgstr "Анимировать в"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1116
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1145
+msgid "-Default-"
+msgstr "-По умолчанию-"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1136
+msgid "Animate Out"
+msgstr "Анимировать вне"
+
+#: ../admin/partials/actions/portfolio-responsive-gallery-admin-actions.php:1164
+msgid "Animation speed (in ms)"
+msgstr "Скорость анимации (в мс)"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:8
+msgid "Add new attribute"
+msgstr "Добавить новый атрибут"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:18
+msgid "Edit attribute"
+msgstr "Изменить атрибут"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:42
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:253
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:469
+msgid "Name"
+msgstr "Имя"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:53
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:254
+msgid "Slug"
+msgstr "Slug"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:64
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:255
+msgid "Type"
+msgstr "Тип"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:69
+msgid "Text"
+msgstr "Текст"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:70
+msgid "Textarea"
+msgstr "Textarea"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:71
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:72
+msgid "Number"
+msgstr "Number"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:73
+msgid "Telephone"
+msgstr "Telephone"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:74
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:75
+msgid "Date"
+msgstr "По дату добавления"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:83
+msgid "Attribute status"
+msgstr "Статус атрибута"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:91
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:236
+msgid "Published"
+msgstr "Опубликованный"
+
+#: ../admin/partials/attributes/actions/portfolio-responsive-gallery-attributes-actions.php:97
+msgid "Unpublished"
+msgstr "Неопубликованный"
+
+#: ../admin/partials/attributes/portfolio-responsive-gallery-attributes-display.php:23
+#: ../admin/partials/portfolio-responsive-gallery-admin-display.php:25
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: ../admin/partials/attributes/portfolio-responsive-gallery-attributes-display.php:34
+#: ../admin/partials/portfolio-responsive-gallery-admin-display.php:36
+msgid "Search"
+msgstr "Поиск"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:16
+#, php-format
+msgid ""
+"How to create a simple portfolio in 3 steps with the help of the %s "
+"Portfolio Responsive Gallery %s plugin."
+msgstr ""
+"Как создать простое портфолио за 3 шага с помощью плагина %s Portfolio "
+"Responsive Gallery %s."
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:28
+#, php-format
+msgid ""
+"Go to the %s Portfolios %s page and build your first Portfolio Responsive "
+"Gallery by clicking on the %s Add New %s button."
+msgstr ""
+"Перейдите на страницу %s Портфолио %s и создайте свою первую адаптивную "
+"галерею портфолио, нажав кнопку %s Добавить новое %s."
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:37
+msgid "Fill out the information by adding a title, projects and so on."
+msgstr "Заполните информацию, добавив название, проекты и так далее."
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:42
+#, php-format
+msgid ""
+"Copy the %s shortcode %s of the Portfolio Responsive Gallery and paste it "
+"into any post․"
+msgstr ""
+"Скопируйте %s шорткод  %s из адаптивной галереи портфолио и вставьте его в "
+"любой пост․"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:51
+msgid ""
+"Congrats! You have already created your first Portfolio Responsive Gallery."
+msgstr "Поздравляю! Вы уже создали свою первую адаптивную галерею портфолио."
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:59
+msgid "Community"
+msgstr "Сообщество"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:66
+msgid "YouTube community"
+msgstr "Сообщество YouTube"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:69
+msgid "Subscribe"
+msgstr "Подписывайся"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:76
+msgid "Free support"
+msgstr "Бесплатная поддержка"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:79
+msgid "Join"
+msgstr "Присоединиться"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:86
+msgid "Premium support"
+msgstr "Премиум поддержка"
+
+#: ../admin/partials/how-to-use/portfolio-responsive-gallery-how-to-use.php:89
+msgid "Contact"
+msgstr "Контакт"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:11
+msgid "Attribute"
+msgstr "Атрибут"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:169
+msgid "There are no portfolio attributes yet."
+msgstr "Атрибутов портфолио пока нет."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:225
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:416
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:226
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:287
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:417
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:501
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:239
+msgid "Unublished"
+msgstr "Неопубликовано"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:256
+msgid "Status"
+msgstr "Статус"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:257
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:474
+msgid "ID"
+msgstr "ID"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:382
+msgid "Portfolio attribute created."
+msgstr "Атрибут портфолио создан."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:384
+msgid "Portfolio attribute saved."
+msgstr "Атрибут портфолио сохранен."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-attributes-list-table.php:386
+msgid "Portfolio attribute deleted."
+msgstr "Атрибут портфеля удален."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:11
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:360
+msgid "There are no portfolios yet."
+msgstr "Портфолио пока нет."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:448
+msgid "This portfolio has no images"
+msgstr "В этом портфолио нет изображений"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:470
+msgid "Image"
+msgstr "Изображение"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:471
+msgid "Description"
+msgstr "Описание"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:472
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:473
+msgid "Projects Count"
+msgstr "Количество проектов"
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:602
+msgid "Portfolio created."
+msgstr "Портфолио создано."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:604
+msgid "Portfolio saved."
+msgstr "Портфолио сохранено."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:606
+msgid "Portfolio deleted."
+msgstr "Портфолио удалено."
+
+#: ../includes/lists/class-portfolio-responsive-gallery-list-table.php:608
+msgid ""
+"You're not allowed to add portfolio for more galleries please checkout to <a "
+"href='http://ays-pro.com/index.php/wordpress/portfolio-responsive-gallery' "
+"target='_blank'>PRO version</a>."
+msgstr ""
+"Вам не разрешено добавлять портфолио для большего количества галерей, "
+"пожалуйста, оформите заказ на <a href='http://ays-pro.com/index.php/"
+"wordpress/portfolio-responsive-gallery' target='_blank'>PRO-версию< /а>."
+
+#: ../public/class-portfolio-responsive-gallery-public.php:600
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../public/class-portfolio-responsive-gallery-public.php:608
+msgid "Description:"
+msgstr "Описание:"
+
+#: ../public/class-portfolio-responsive-gallery-public.php:617
+msgid "Project page"
+msgstr "Страница проекта"
+
+#: ../public/class-portfolio-responsive-gallery-public.php:618
+msgid "See more"
+msgstr "Узнать больше"
+
+#~ msgid "Please enter 1 or more characters"
+#~ msgstr "Пожалуйста, введите 1 или более символов"
+
+#~ msgid "Searching..."
+#~ msgstr "Поиск..."
+
+#~ msgid "Add Gif"
+#~ msgstr "Добавить гифку"
+
+#~ msgid "Are you sure you want to go to the next gallery page?"
+#~ msgstr "Вы уверены, что хотите перейти на следующую страницу галереи?"
+
+#~ msgid "Are you sure you want to go to the previous gallery page?"
+#~ msgstr "Вы уверены, что хотите перейти на предыдущую страницу галереи?"
+
+#~ msgid "Clear"
+#~ msgstr "Очистить"
+
+#~ msgid "Clear color"
+#~ msgstr "Очистить цвет"
+
+#~ msgid "Select default color"
+#~ msgstr "Выберите цвет по умолчанию"
+
+#~ msgid "Select Color"
+#~ msgstr "Выберите цвет"
+
+#~ msgid "Color value"
+#~ msgstr "Значение цвета"
+
+#~ msgid "Photo Gallery"
+#~ msgstr "Photo Gallery"
+
+#~ msgid "All Galleries"
+#~ msgstr "Все галереи"
+
+#~ msgid "Add new"
+#~ msgstr "Добавить новое"
+
+#~ msgid "Categories"
+#~ msgstr "Категории"
+
+#~ msgid "Our products"
+#~ msgstr "Наши продукты"
+
+#~ msgid "PRO Features"
+#~ msgstr "Характеристики PRO"
+
+#~ msgid "Galleries"
+#~ msgstr "Галереи"
+
+#~ msgid "Message Variables"
+#~ msgstr "Переменные сообщения"
+
+#~ msgid "Insert your preferred message variable into the editor by clicking."
+#~ msgstr "Вставьте предпочтительную переменную сообщения в редактор, щелкнув."
+
+#~ msgid "Add new gallery"
+#~ msgstr "Добавить новую галерею"
+
+#~ msgid "Edit gallery"
+#~ msgstr "Редактировать галерею"
+
+#~ msgid "User's First Name"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "User's Last Name"
+#~ msgstr "Фамилия пользователя"
+
+#~ msgid "User's Display Name"
+#~ msgstr "Отображаемое имя пользователя"
+
+#~ msgid "User's Nick Name"
+#~ msgstr "Никнейм пользователя"
+
+#~ msgid "User's WordPress profile email"
+#~ msgstr "Электронная почта профиля пользователя WordPress"
+
+#~ msgid "User's Wordpress Roles"
+#~ msgstr "Роли пользователя Wordpress"
+
+#~ msgid "User's IP address"
+#~ msgstr "IP-адрес пользователя"
+
+#~ msgid "View Documentation"
+#~ msgstr "Посмотреть документацию"
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid "Styles"
+#~ msgstr "Стили"
+
+#~ msgid "Lightbox settings"
+#~ msgstr "Настройки лайтбокса"
+
+#~ msgid "Gallery Title"
+#~ msgstr "Название Галереи"
+
+#~ msgid "In this field is noted the name of the gallery"
+#~ msgstr "В этом поле указано название галереи"
+
+#~ msgid "Gallery Description"
+#~ msgstr "Описание галереи"
+
+#~ msgid ""
+#~ "This section is noted for the description of the gallery. You can use "
+#~ "Variables (General Settings) to insert user data here."
+#~ msgstr ""
+#~ "Этот раздел отмечен описанием галереи. Вы можете использовать переменные "
+#~ "(общие настройки), чтобы вставить сюда пользовательские данные."
+
+#~ msgid "To see all Message Variables "
+#~ msgstr "Чтобы увидеть все переменные сообщения"
+
+#~ msgid "click here"
+#~ msgstr "кликните сюда"
+
+#~ msgid "Add Images"
+#~ msgstr "Добавить изображения"
+
+#~ msgid "Upload images for your gallery"
+#~ msgstr "Загрузить изображения для вашей галереи"
+
+#~ msgid "Add multiple images +"
+#~ msgstr "Добавить несколько изображений +"
+
+#~ msgid "Select all"
+#~ msgstr "Выбрать все"
+
+#~ msgid "It shows the name of the inserted picture"
+#~ msgstr "Показывает название вставленного изображения"
+
+#~ msgid ""
+#~ "This field shows the alternate text when the picture is not loaded or not "
+#~ "found"
+#~ msgstr ""
+#~ "В этом поле отображается альтернативный текст, когда изображение не "
+#~ "загружено или не найдено"
+
+#~ msgid "This field shows the description of the chosen image"
+#~ msgstr "В этом поле отображается описание выбранного изображения"
+
+#~ msgid "This section is for the URL address"
+#~ msgstr "Этот раздел для URL-адреса"
+
+#~ msgid "Select image categories"
+#~ msgstr "Выберите категории изображений"
+
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgid "5"
+#~ msgstr "5"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "15"
+#~ msgstr "15"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "30"
+#~ msgstr "30"
+
+#~ msgid "This field is for the creation of pagination"
+#~ msgstr "Это поле для создания нумерации страниц"
+
+#~ msgid "Image pagination"
+#~ msgstr "Нумерация изображений"
+
+#~ msgid "Change the ordering"
+#~ msgstr "Изменить порядок"
+
+#~ msgid "Title"
+#~ msgstr "По заглавку"
+
+#~ msgid "Image title"
+#~ msgstr "Название изображения"
+
+#~ msgid "Alt"
+#~ msgstr "Alt"
+
+#~ msgid "Image alt"
+#~ msgstr "Image alt"
+
+#~ msgid "Image Category"
+#~ msgstr "Категория изображения"
+
+#~ msgid "Enable filter by categories"
+#~ msgstr "Включить фильтр по категориям"
+
+#~ msgid ""
+#~ "You can decide whether to show the filter by category of the gallery or "
+#~ "not. This option is compatible only with the Grid layout."
+#~ msgstr ""
+#~ "Вы можете решить, показывать ли фильтр по категории галереи или нет. Эта "
+#~ "опция совместима только с Grid layout."
+
+#~ msgid "Categories filter animation"
+#~ msgstr "Анимация фильтра категорий"
+
+#~ msgid ""
+#~ "Choose the animation of the images displaying while filtering them by "
+#~ "categories."
+#~ msgstr ""
+#~ "Выберите анимацию отображения изображений при фильтрации их по категориям."
+
+#~ msgid "Slide Up"
+#~ msgstr "Slide Up"
+
+#~ msgid "Slide Down"
+#~ msgstr "Slide Down"
+
+#~ msgid "Slide Left"
+#~ msgstr "Slide Left"
+
+#~ msgid "Slide Right"
+#~ msgstr "Slide Right"
+
+#~ msgid "Show gallery head"
+#~ msgstr "Показать вверхную часть галереи"
+
+#~ msgid "Show gallery title "
+#~ msgstr "Показать название галереи "
+
+#~ msgid "Thumbnail Size"
+#~ msgstr "Размер миниатюры"
+
+#~ msgid "The size of the image in the thumbnail"
+#~ msgstr "Размер изображения в миниатюре"
+
+#~ msgid "Images order by"
+#~ msgstr "Сортировка изображений по"
+
+#~ msgid "This field arranges the images by parameters of title, date, random"
+#~ msgstr ""
+#~ "Это поле упорядочивает изображения по параметрам заголовка, даты, "
+#~ "случайности"
+
+#~ msgid "No ordering"
+#~ msgstr "Не сортировать"
+
+#~ msgid "Random"
+#~ msgstr "Случайный"
+
+#~ msgid "Ascending"
+#~ msgstr "По возрастанию"
+
+#~ msgid "Descending"
+#~ msgstr "По убыванию"
+
+#~ msgid "Images loading effect"
+#~ msgstr "Эффект загрузки изображений"
+
+#~ msgid "Choose Images loading animation"
+#~ msgstr "Выберите анимацию загрузки изображений"
+
+#~ msgid "Redirect URL"
+#~ msgstr "Перенаправить URL-адрес"
+
+#~ msgid "Specify the opening method of the Image URLs:"
+#~ msgstr "Укажите способ открытия URL-адресов изображений:"
+
+#~ msgid ""
+#~ "Current tab։ Enable this option in order to open the URL in the same tab"
+#~ msgstr ""
+#~ "Текущая вкладка։ Включите эту опцию, чтобы открыть URL-адрес на той же "
+#~ "вкладке"
+
+#~ msgid ""
+#~ "New tab։ Enable this option in order to redirect the URL to a new tab"
+#~ msgstr ""
+#~ "Новая вкладка։ Включите эту опцию, чтобы перенаправить URL-адрес на новую "
+#~ "вкладку"
+
+#~ msgid "New Tab"
+#~ msgstr "Новая вкладка"
+
+#~ msgid "Current Tab"
+#~ msgstr "Текущая вкладка"
+
+#~ msgid "Show title on thumbnail"
+#~ msgstr "Показать заголовок на миниатюре"
+
+#~ msgid ""
+#~ "If you choose the case of Thumbnail hover the title will appear when the "
+#~ "mouse cursor stops on the image, otherwise the title by default will "
+#~ "appear at the bottom of the image."
+#~ msgstr ""
+#~ "Если вы выберете вариант миниатюры для наведения курсора мыши, то "
+#~ "заголовок будет отображаться при остановке курсора мыши на изображении, в "
+#~ "противном случае заголовок по умолчанию будет отображаться в нижней части "
+#~ "изображения."
+
+#~ msgid "Thumbnail hover "
+#~ msgstr "Наведите на миниатюру "
+
+#~ msgid "Image title position"
+#~ msgstr "Положение заголовка изображения"
+
+#~ msgid "Show title: in the bottom or on top"
+#~ msgstr "Показать заголовок: внизу или сверху"
+
+#~ msgid "Bottom"
+#~ msgstr "Снизу"
+
+#~ msgid "Top"
+#~ msgstr "Сверху"
+
+#~ msgid "Show with date "
+#~ msgstr "Показать с датой "
+
+#~ msgid ""
+#~ "If you choose the Show with a date of adding the image to the gallery "
+#~ "will appear on the date with the title."
+#~ msgstr ""
+#~ "Если вы выберете показать с датой, то в галерее появится дата с названием."
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Нет"
+
+#~ msgid "Disable lightbox"
+#~ msgstr "Отключить лайтбокс"
+
+#~ msgid "By checking this option it will disable lightbox on image click"
+#~ msgstr "Отметив эту опцию, вы отключите лайтбокс при нажатии"
+
+#~ msgid "Make a link on the whole image"
+#~ msgstr "Сделать ссылку на все изображение"
+
+#~ msgid ""
+#~ "Make a URL redirection while clicking on any spot on the image container. "
+#~ "Please note that the option works when the Disable lightbox option is "
+#~ "activated."
+#~ msgstr ""
+#~ "Сделайте перенаправление URL-адреса, щелкнув любое место в контейнере "
+#~ "изображения. Обратите внимание, что эта опция работает, когда "
+#~ "активирована опция «Отключить лайтбокс»."
+
+#~ msgid "Enable search for image"
+#~ msgstr "Включить поиск изображения"
+
+#~ msgid "This option is not compatible with the Mosaic layout."
+#~ msgstr "Этот параметр несовместим с макетом Mosaic."
+
+#~ msgid "Gallery Width"
+#~ msgstr "Ширина галереи"
+
+#~ msgid "Responsive Width/Height"
+#~ msgstr "Адаптивная ширина/высота"
+
+#~ msgid ""
+#~ "Enable the option if you want to assign the values to height and weight "
+#~ "by ratio."
+#~ msgstr ""
+#~ "Включите эту опцию, если вы хотите присвоить значения высоте и ширине по "
+#~ "соотношению."
+
+#~ msgid "Height / Width ratio"
+#~ msgstr "Соотношение высоты/ширины"
+
+#~ msgid ""
+#~ "This ratio indicates the quantitative relation between height and width. "
+#~ "For example, if you give 1.2 value to ratio while the width is 300, then "
+#~ "the height will be 300x1.2=360."
+#~ msgstr ""
+#~ "Это соотношение указывает на количественное соотношение между высотой и "
+#~ "шириной. Например, если вы присвоите коэффициенту значение 1.2, а ширина "
+#~ "равна 300, тогда высота будет 300x1.2=360."
+
+#~ msgid "Thumbnails height"
+#~ msgstr "Высота миниатюр"
+
+#~ msgid "The height of the thumbnails of the Gallery"
+#~ msgstr "Высота миниатюр Галереи"
+
+#~ msgid "For mobile:"
+#~ msgstr "Для мобильных устройств:"
+
+#~ msgid "For desktop:"
+#~ msgstr "Для рабочего стола:"
+
+#~ msgid "Use RTL Direction"
+#~ msgstr "Используйте направление RTL"
+
+#~ msgid ""
+#~ "Enable Right to Left direction for the text. This option is intended for "
+#~ "the Arabic language."
+#~ msgstr ""
+#~ "Включите направление текста справа налево. Эта опция предназначена для "
+#~ "арабского языка."
+
+#~ msgid "Change the author of the current gallery"
+#~ msgstr "Изменить автора текущей галереи"
+
+#~ msgid ""
+#~ "You can change the author who created the current gallery to your "
+#~ "preferred one. You need to write the User ID here. Please note, that in "
+#~ "case you write an ID, by which there are no users found, the changes will "
+#~ "not be applied and the previous author will remain the same."
+#~ msgstr ""
+#~ "Вы можете изменить автора, создавшего текущую галерею, на предпочитаемого "
+#~ "вами. Вам нужно написать здесь идентификатор пользователя. Обратите "
+#~ "внимание, что в случае, если вы напишете ID, по которому не найдены "
+#~ "пользователи, изменения не будут применены и предыдущий автор останется "
+#~ "прежним."
+
+#~ msgid "Select User"
+#~ msgstr "Выберите пользователя"
+
+#~ msgid "Pagination"
+#~ msgstr "Нумерация страниц"
+
+#~ msgid ""
+#~ "You will be able to choose the way of the pagination. By default it is "
+#~ "none, so all the images will loaded in the Front-end."
+#~ msgstr ""
+#~ "Вы сможете выбрать способ нумерации страниц. По умолчанию его нет, "
+#~ "поэтому все изображения будут загружены во внешний интерфейс."
+
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "Simple"
+#~ msgstr "Простой"
+
+#~ msgid "Load More "
+#~ msgstr "Загрузить больше"
+
+#~ msgid "Images per page"
+#~ msgstr "Изображения на странице"
+
+#~ msgid "Set the exact number of images you want to be displayed on each page"
+#~ msgstr ""
+#~ "Установите точное количество изображений, которые вы хотите отображать на "
+#~ "каждой странице."
+
+#~ msgid ""
+#~ "Choose the number of images you want to be displayed at the beginning"
+#~ msgstr ""
+#~ "Выберите количество изображений, которые вы хотите отображать в начале"
+
+#~ msgid "Images per load"
+#~ msgstr "Изображения для каждой загрузки"
+
+#~ msgid ""
+#~ "Choose how many images will be loaded after clicking on the ''Load More'' "
+#~ "button"
+#~ msgstr ""
+#~ "Выберите, сколько изображений будет загружено после нажатия кнопки "
+#~ "«Загрузить еще»."
+
+#~ msgid ""
+#~ "This section notes the type of the Gallery that is in what sequence "
+#~ "should the pictures be"
+#~ msgstr ""
+#~ "В этом разделе указывается тип галереи, в какой последовательности должны "
+#~ "быть изображения"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "This feature available only in PRO version!!!"
+#~ msgstr "Эта функция доступна только в версии PRO!!!"
+
+#~ msgid "Images hover effect"
+#~ msgstr "Эффекты наведения на изображений"
+
+#~ msgid "Effect intended for hover according to animation"
+#~ msgstr "Эффект, предназначенный для наведения в соответствии с анимацией"
+
+#~ msgid "Simple animation "
+#~ msgstr "Простая анимация "
+
+#~ msgid "Direction-aware "
+#~ msgstr "Direction-aware "
+
+#~ msgid "Images hover animation"
+#~ msgstr "Анимация наведения изображений"
+
+#~ msgid "Hover appearing animation of the images of Gallery"
+#~ msgstr "При наведении курсора появляется анимация изображений галереи"
+
+#~ msgid "Hover animation preview"
+#~ msgstr "Предварительный просмотр анимации при наведении"
+
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#~ msgid "Rotate 3D"
+#~ msgstr "Rotate 3D"
+
+#~ msgid "Hover this preview block"
+#~ msgstr "Наведите курсор на этот блок предварительного просмотра"
+
+#~ msgid "Images hover animation speed"
+#~ msgstr "Скорость анимации при наведении изображений"
+
+#~ msgid "Specify the animation speed of the image."
+#~ msgstr "Укажите скорость анимации изображения."
+
+#~ msgid "Image position"
+#~ msgstr "Положение изображения"
+
+#~ msgid "The position image of the gallery"
+#~ msgstr "Положение изображения галереи"
+
+#~ msgid "Images hover opacity"
+#~ msgstr "Непрозрачность изображения при наведении курсора"
+
+#~ msgid "The transparency degree of the image hover"
+#~ msgstr "Степень прозрачности изображения при наведении"
+
+#~ msgid "Hover opacity preview"
+#~ msgstr "Предварительный просмотр прозрачности при наведении"
+
+#~ msgid "Images hover color"
+#~ msgstr "Цвет наведения изображения"
+
+#~ msgid "The color of the image hover"
+#~ msgstr "Цвет изображения при наведении"
+
+#~ msgid "Images hover zoom effect"
+#~ msgstr "Эффект увеличения при наведении на изображения"
+
+#~ msgid "During image hover, the zoom effect of the image"
+#~ msgstr ""
+#~ "Во время наведения курсора на изображение, эффект масштабирования "
+#~ "изображения"
+
+#~ msgid "Yes "
+#~ msgstr "Да "
+
+#~ msgid "No "
+#~ msgstr "Нет "
+
+#~ msgid "Animation speed"
+#~ msgstr "Скорость анимации"
+
+#~ msgid "Specify the animation speed of the zoom effect of the image."
+#~ msgstr "Укажите скорость анимации эффекта масштабирования изображения."
+
+#~ msgid "Images hover scale box shadow effect"
+#~ msgstr "Эффект тени при наведении на масштаб изображения"
+
+#~ msgid "During image hover, the scale box shadow effect of the image"
+#~ msgstr ""
+#~ "При наведении на изображение эффект затенения масштабируемой рамки "
+#~ "изображения"
+
+#~ msgid "Specify the animation speed of the scale effect of the image."
+#~ msgstr "Укажите скорость анимации эффекта масштаба изображения."
+
+#~ msgid "Choose filter for thumbnail"
+#~ msgstr "Выберите фильтр для миниатюр"
+
+#~ msgid "The filter property defines visual effects to images of Gallery"
+#~ msgstr ""
+#~ "Свойство filter определяет визуальные эффекты для изображений галереи"
+
+#~ msgid "Default none"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Blur"
+#~ msgstr "Blur"
+
+#~ msgid "Brightness"
+#~ msgstr "Brightness"
+
+#~ msgid "Contrast"
+#~ msgstr "Contrast"
+
+#~ msgid "Grayscale"
+#~ msgstr "Grayscale"
+
+#~ msgid "Hue Rotate"
+#~ msgstr "Hue Rotate"
+
+#~ msgid "Invert"
+#~ msgstr "Invert"
+
+#~ msgid "Saturate"
+#~ msgstr "Saturate"
+
+#~ msgid "Sepia"
+#~ msgstr "Sepia"
+
+#~ msgid "Loader style"
+#~ msgstr "Стиль загрузчика"
+
+#~ msgid "Gif"
+#~ msgstr "Gif"
+
+#~ msgid "Width (px)"
+#~ msgstr "Ширина (px)"
+
+#~ msgid "Custom Gif width in pixels. It accepts only numeric values."
+#~ msgstr ""
+#~ "Пользовательская ширина GIF в пикселях. Он принимает только числовые "
+#~ "значения."
+
+#~ msgid "Images hover icon"
+#~ msgstr "Значок наведения изображения"
+
+#~ msgid "During hover, the icon seen on the image"
+#~ msgstr "Во время наведения значок виден на изображении"
+
+#~ msgid "Select icon for the gallery images"
+#~ msgstr "Выберите значок для галереи изображений"
+
+#~ msgid "Images hover icon size"
+#~ msgstr "Размер значка при наведении изображения"
+
+#~ msgid "Images distance"
+#~ msgstr "Расстояние между изображениями"
+
+#~ msgid "The distance among images with pixels"
+#~ msgstr "Расстояние между изображениями в пикселях"
+
+#~ msgid "Images border"
+#~ msgstr "Границы изображений"
+
+#~ msgid "Images border radius"
+#~ msgstr "Радиус границы изображения"
+
+#~ msgid "The degree of borders curvature of images"
+#~ msgstr "Степень границы кривизны изображений"
+
+#~ msgid "Thumbnail title icon size"
+#~ msgstr "Размер иконки заголовка миниатюры"
+
+#~ msgid "Gallery title text color"
+#~ msgstr "Цвет текста заголовка галереи"
+
+#~ msgid "The color of the Gallery title"
+#~ msgstr "Цвет заголовка галереи"
+
+#~ msgid "Gallery description text color"
+#~ msgstr "Цвет текста описания галереи"
+
+#~ msgid "The color of the Gallery description"
+#~ msgstr "Цвет описания Галереи"
+
+#~ msgid "Background color of the Gallery thumbnail title"
+#~ msgstr "Цвет фона заголовка миниатюры галереи"
+
+#~ msgid "The color of the background of the Gallery Thumbnail title"
+#~ msgstr "Цвет фона названия галереи миниатюр"
+
+#~ msgid "Thumbnail title text color"
+#~ msgstr "Цвет текста заголовка миниатюры"
+
+#~ msgid ""
+#~ "Choose the color of the title text on the thumbnail. Make it transparent "
+#~ "if you want."
+#~ msgstr ""
+#~ "Выберите цвет текста заголовка на миниатюре. Сделайте его прозрачным, "
+#~ "если хотите."
+
+#~ msgid "Custom class"
+#~ msgstr "Пользовательский класс"
+
+#~ msgid ""
+#~ "Custom HTML class for gallery container. You can use your class for "
+#~ "adding your custom styles for gallery container."
+#~ msgstr ""
+#~ "Пользовательский класс HTML для контейнера галереи. Вы можете "
+#~ "использовать свой класс для добавления пользовательских стилей для "
+#~ "контейнера галереи."
+
+#~ msgid "myClass myAnotherClass..."
+#~ msgstr "myClass myAnotherClass..."
+
+#~ msgid "Custom CSS"
+#~ msgstr "Пользовательские CSS"
+
+#~ msgid "You can add your CSS"
+#~ msgstr "Вы можете добавить свой CSS"
+
+#~ msgid "Lightbox options"
+#~ msgstr "Опции лайтбокса"
+
+#~ msgid "Images counter"
+#~ msgstr "Счетчик изображений"
+
+#~ msgid "Enable "
+#~ msgstr "Включить "
+
+#~ msgid "Disable "
+#~ msgstr "Отключить "
+
+#~ msgid "Show caption in lightbox"
+#~ msgstr "Показать заголовок в лайтбоксе"
+
+#~ msgid "Images slide show"
+#~ msgstr "Слайд-шоу изображений"
+
+#~ msgid "Slide duration"
+#~ msgstr "Продолжительность слайда"
+
+#~ msgid "1 sec = 1000 ms"
+#~ msgstr "1 сек = 1000 мс"
+
+#~ msgid "Choose filter for lightbox"
+#~ msgstr "Выберите фильтр для лайтбокса"
+
+#~ msgid "Allow key control"
+#~ msgstr "Разрешить управление клавиатурой"
+
+#~ msgid "Allow Esc key"
+#~ msgstr "Разрешить клавишу Esc"
+
+#~ msgid "Previous Gallery"
+#~ msgstr "Предыдущая галерея"
+
+#~ msgid "Next Gallery"
+#~ msgstr "Следующая галерея"
+
+#~ msgid ""
+#~ "View your gallery in live preview. In the preview you can’t see Thumbnail "
+#~ "size and Image order changes."
+#~ msgstr ""
+#~ "Просмотр вашей галереи в режиме предварительного просмотра. В "
+#~ "предварительном просмотре вы не видите изменения размера эскиза и порядка "
+#~ "изображений."
+
+#~ msgid "Gallery preview"
+#~ msgstr "Предварительный просмотр галереи"
+
+#~ msgid "Edit category"
+#~ msgstr "Редактировать категорию"
+
+#~ msgid "Title of the category"
+#~ msgstr "Название категории"
+
+#~ msgid "Provide more information about the gallery category"
+#~ msgstr "Предоставьте больше информации о категории галереи"
+
+#~ msgid "Next Category"
+#~ msgstr "Следующая категория"
+
+#~ msgid "Please feel free to use our other awesome plugins!"
+#~ msgstr ""
+#~ "Пожалуйста, не стесняйтесь использовать наши другие удивительные плагины!"
+
+#~ msgid "Quiz Maker"
+#~ msgstr "Quiz Maker"
+
+#~ msgid ""
+#~ "Create powerful and engaging quizzes. Build as many quizzes as you wish. "
+#~ "No limit on the count of participants taking the test at the same time. "
+#~ "Use the easy-to-use features in the plugin and attract your visitors."
+#~ msgstr ""
+#~ "Создавайте мощные и увлекательные викторины. Создавайте столько викторин, "
+#~ "сколько хотите. Нет ограничений на количество участников, сдающих тест "
+#~ "одновременно. Используйте простые в использовании функции плагина и "
+#~ "привлекайте посетителей."
+
+#~ msgid ""
+#~ "Build up various types of polls in a minute and get instant feedback on "
+#~ "any topic or product."
+#~ msgstr ""
+#~ "Создавайте различные типы опросов за минуту и получайте мгновенные отзывы "
+#~ "по любой теме или продукту."
+
+#~ msgid "Survey Maker"
+#~ msgstr "Survey Maker"
+
+#~ msgid ""
+#~ "Make amazing online surveys and get real-time feedback quickly and easily."
+#~ msgstr ""
+#~ "Создавайте потрясающие онлайн-опросы и быстро и легко получайте отзывы в "
+#~ "режиме реального времени."
+
+#~ msgid ""
+#~ "Learn what your website visitors want, need, and expect with the help of "
+#~ "Survey Maker. Build surveys without limiting your needs."
+#~ msgstr ""
+#~ "Узнайте, чего хотят, в чем нуждаются и чего ожидают посетители вашего веб-"
+#~ "сайта, с помощью Survey Maker. Создавайте опросы, не ограничивая свои "
+#~ "потребности."
+
+#~ msgid "Popup Box"
+#~ msgstr "Popup Box"
+
+#~ msgid ""
+#~ "Popup everything you want! Create informative and promotional popups all "
+#~ "in one plugin."
+#~ msgstr ""
+#~ "Всплывающее все, что вы хотите! Создавайте информационные и рекламные "
+#~ "всплывающие окна в одном плагине."
+
+#~ msgid ""
+#~ "Attract your visitors and convert them into email subscribers and paying "
+#~ "customers."
+#~ msgstr ""
+#~ "Привлекайте посетителей и превращайте их в подписчиков электронной почты "
+#~ "и платящих клиентов."
+
+#~ msgid "Secure Copy Content Protection"
+#~ msgstr "Secure Copy Content Protection"
+
+#~ msgid ""
+#~ "Disable the right click, copy paste, content selection and copy shortcut "
+#~ "keys on your website."
+#~ msgstr ""
+#~ "Отключите щелчок правой кнопкой мыши, копирование и вставку, выбор "
+#~ "содержимого и копирование сочетаний клавиш на вашем веб-сайте."
+
+#~ msgid ""
+#~ "Protect web content from being plagiarized. Prevent plagiarism from your "
+#~ "website with this easy to use plugin."
+#~ msgstr ""
+#~ "Защитите веб-контент от плагиата. Предотвратите плагиат с вашего сайта с "
+#~ "помощью этого простого в использовании плагина."
+
+#~ msgid "Poll Maker"
+#~ msgstr "Poll Maker"
+
+#~ msgid "Create amazing online polls for your WordPress website super easily."
+#~ msgstr ""
+#~ "Создавайте удивительные онлайн-опросы для своего веб-сайта WordPress "
+#~ "очень легко."
+
+#~ msgid "Chart Builder"
+#~ msgstr "Chart Builder"
+
+#~ msgid "Chart Builder plugin allows you to create beautiful charts"
+#~ msgstr "Плагин Chart Builder позволяет создавать красивые диаграммы"
+
+#~ msgid " and graphs easily and quickly."
+#~ msgstr "и графики легко и быстро."
+
+#~ msgid "Easy Form"
+#~ msgstr "Easy Form"
+
+#~ msgid ""
+#~ "Choose the best WordPress form builder plugin. Create contact forms, "
+#~ "payment forms, surveys, and many more custom forms."
+#~ msgstr ""
+#~ "Выберите лучший плагин для создания форм WordPress. Создавайте контактные "
+#~ "формы, платежные формы, опросы и многие другие настраиваемые формы."
+
+#~ msgid "Build forms easily with us."
+#~ msgstr "Создавайте формы легко вместе с нами."
+
+#~ msgid "Personal Dictionary"
+#~ msgstr "Personal Dictionary"
+
+#~ msgid ""
+#~ "Allow your students to create personal dictionary, study and memorize the "
+#~ "words."
+#~ msgstr ""
+#~ "Позвольте своим ученикам создать личный словарь, изучать и запоминать "
+#~ "слова."
+
+#~ msgid ""
+#~ "Allow your users to create their own digital dictionaries and learn new "
+#~ "words and terms as fastest as possible."
+#~ msgstr ""
+#~ "Позвольте вашим пользователям создавать свои собственные цифровые словари "
+#~ "и учить новые слова и термины как можно быстрее."
+
+#~ msgid "See All Plugins"
+#~ msgstr "Посмотреть все плагины"
+
+#~ msgid "Personal"
+#~ msgstr "Personal"
+
+#~ msgid "Business"
+#~ msgstr "Business"
+
+#~ msgid "Developer"
+#~ msgstr "Developer"
+
+#~ msgid "Free"
+#~ msgstr "Free"
+
+#~ msgid "Install on unlimited sites"
+#~ msgstr "Установить на неограниченное количество сайтов"
+
+#~ msgid "Upgrade for"
+#~ msgstr "Обновление для"
+
+#~ msgid "1 months"
+#~ msgstr "1 месяц"
+
+#~ msgid "12 months"
+#~ msgstr "12 месяцев"
+
+#~ msgid "Lifetime"
+#~ msgstr "Пожизненная гарантия"
+
+#~ msgid "Support for"
+#~ msgstr "Поддержка для"
+
+#~ msgid "1 site"
+#~ msgstr "1 сайт"
+
+#~ msgid "5 site"
+#~ msgstr "5 сайтов"
+
+#~ msgid "Unlimited sites"
+#~ msgstr "Неограниченное количество сайтов"
+
+#~ msgid "Unlimited galleries"
+#~ msgstr "Неограниченное количество галерей"
+
+#~ msgid "Unlimited items"
+#~ msgstr "Неограниченное количество предметов"
+
+#~ msgid "30+ awesome views"
+#~ msgstr "30+ потрясающих типов"
+
+#~ msgid "20+ Transition effects"
+#~ msgstr "20+ эффектов перехода"
+
+#~ msgid "20+ Animation easing effects"
+#~ msgstr "20+ анимационных эффектов"
+
+#~ msgid "Lightbox overlay settings"
+#~ msgstr "Настройки наложения лайтбокса"
+
+#~ msgid "Lightbox live preview"
+#~ msgstr "Предварительный просмотр лайтбокса"
+
+#~ msgid "Share buttons"
+#~ msgstr "Кнопки Поделиться"
+
+#~ msgid "Full screen button"
+#~ msgstr "Кнопка полного экрана"
+
+#~ msgid "Images actual size button"
+#~ msgstr "Кнопка фактического размера изображения"
+
+#~ msgid "Download button"
+#~ msgstr "Кнопка загрузки"
+
+#~ msgid "Mouse wheel"
+#~ msgstr "Колесико мыши"
+
+#~ msgid "Thumbnails settings"
+#~ msgstr "Настройки миниатюр"
+
+#~ msgid "Key control"
+#~ msgstr "Ключ управления"
+
+#~ msgid "Download"
+#~ msgstr "Скачать"
+
+#~ msgid "Buy now"
+#~ msgstr "Купить сейчас"
+
+#~ msgid "Create Your First Gallery in Under One Minute"
+#~ msgstr "Создайте свою первую галерею менее чем за минуту"
+
+#~ msgid "plugin."
+#~ msgstr "плагина."
+
+#~ msgid "Go to the"
+#~ msgstr "Перейти к"
+
+#~ msgid "page and build your first gallery by clicking on the"
+#~ msgstr "страницу и создайте свою первую галерею, нажав на"
+
+#~ msgid "button"
+#~ msgstr "кнопку"
+
+#~ msgid "Copy the"
+#~ msgstr "Скопируйте"
+
+#~ msgid "shortcode"
+#~ msgstr "Шорткод"
+
+#~ msgid ""
+#~ "Our YouTube community  guides you to step by step tutorials about our "
+#~ "products and not only..."
+#~ msgstr ""
+#~ "Наше сообщество YouTube проведет вас по пошаговым руководствам о наших "
+#~ "продуктах и не только..."
+
+#~ msgid ""
+#~ "With the Free version, you get a lifetime usage for the plugin, however, "
+#~ "you will get new updates and support for only 1 month."
+#~ msgstr ""
+#~ "С бесплатной версией вы получаете пожизненное использование плагина, "
+#~ "однако вы будете получать новые обновления и поддержку только в течение 1 "
+#~ "месяца."
+
+#~ msgid ""
+#~ "Get 12 months updates and support for the Business package and lifetime "
+#~ "updates and support for the Developer package."
+#~ msgstr ""
+#~ "Получите обновления и поддержку бизнес-пакета на 12 месяцев, а также "
+#~ "пожизненные обновления и поддержку пакета разработчика."
+
+#~ msgid "Changes saved."
+#~ msgstr "Изменения сохранены."
+
+#~ msgid "Shortcodes"
+#~ msgstr "Шорткоды"
+
+#~ msgid "Message variables"
+#~ msgstr "Переменные сообщения"
+
+#~ msgid "Default parameters for gallery"
+#~ msgstr "Параметры по умолчанию для галереи"
+
+#~ msgid "WP Editor height"
+#~ msgstr "Высота редактора WP"
+
+#~ msgid ""
+#~ "Give the default value to the height of the WP Editor. It will apply to "
+#~ "all WP Editors within the plugin on the dashboard."
+#~ msgstr ""
+#~ "Задайте значение по умолчанию для высоты редактора WP. Это будет "
+#~ "применяться ко всем редакторам WP в плагине на панели инструментов."
+
+#~ msgid "Show All images text"
+#~ msgstr "Показать все изображения текст"
+
+#~ msgid ""
+#~ "Write the text you prefer for the \"All\" category to see all the images "
+#~ "on the Front-end."
+#~ msgstr ""
+#~ "Напишите текст, который вы предпочитаете, для категории «Все», чтобы "
+#~ "увидеть все изображения во внешнем интерфейсе."
+
+#~ msgid "Excerpt words count in list tables"
+#~ msgstr "Количество слов отрывка в таблицах списков"
+
+#~ msgid "Galleries list table"
+#~ msgstr "Таблица со списком галерей"
+
+#~ msgid ""
+#~ "Determine the length of the galleries name to be shown in the Galleries "
+#~ "List Table by putting your preferred count of words in the following "
+#~ "field. (For example: if you put 10,  you will see the first 10 words of "
+#~ "each galleries name in the Galleries page of your dashboard)."
+#~ msgstr ""
+#~ "Определите длину названия галереи, которое будет отображаться в таблице "
+#~ "списка галерей, указав желаемое количество слов в следующем поле. "
+#~ "(Например: если вы укажете 10, вы увидите первые 10 слов названия каждой "
+#~ "галереи на странице «Галереи» на панели инструментов)."
+
+#~ msgid "Gallery categories list table"
+#~ msgstr "Таблица со списком категорий галереи"
+
+#~ msgid ""
+#~ "Determine the length of the results to be shown in the Gallery categories "
+#~ "List Table by putting your preferred count of words in the following "
+#~ "field. (For example: if you put 10,  you will see the first 10 words of "
+#~ "each result in the Question categories page of your dashboard."
+#~ msgstr ""
+#~ "Определите длину результатов, которые будут отображаться в таблице списка "
+#~ "категорий галереи, указав желаемое количество слов в следующем поле. "
+#~ "(Например: если вы поставите 10, вы увидите первые 10 слов каждого "
+#~ "результата на странице категорий вопросов на панели инструментов."
+
+#~ msgid "General CSS File"
+#~ msgstr "Общий файл CSS"
+
+#~ msgid "Exclude general CSS file from home page"
+#~ msgstr "Исключить общий файл CSS с домашней страницы"
+
+#~ msgid ""
+#~ "If the option is enabled, then the gallery general CSS file will not be "
+#~ "applied to the home page. Please note, that if you have inserted the "
+#~ "gallery on the home page, then the option must be disabled so that the "
+#~ "CSS File can normally work for that gallery."
+#~ msgstr ""
+#~ "Если опция включена, то общий файл CSS галереи не будет применяться к "
+#~ "домашней странице. Обратите внимание, что если вы вставили галерею на "
+#~ "главную страницу, то эта опция должна быть отключена, чтобы файл CSS мог "
+#~ "нормально работать для этой галереи."
+
+#~ msgid "Extra shortcodes"
+#~ msgstr "Дополнительные шорткоды"
+
+#~ msgid "Show gallery creation date"
+#~ msgstr "Показать дату создания галереи"
+
+#~ msgid ""
+#~ "You need to insert Your Gallery ID in the shortcode. It will show the "
+#~ "creation date of the particular gallery. If there is no gallery available/"
+#~ "found with that particular Gallery ID, the shortcode will be empty."
+#~ msgstr ""
+#~ "Вам нужно вставить ID вашей галереи в шорткод. Он покажет дату создания "
+#~ "конкретной галереи. Если нет доступной/найденной галереи с этим "
+#~ "конкретным идентификатором галереи, шорткод будет пустым."
+
+#~ msgid "Show current gallery author"
+#~ msgstr "Показать текущего автора галереи"
+
+#~ msgid ""
+#~ "You need to insert Your Gallery ID in the shortcode. It will show the "
+#~ "current author of the particular gallery. If there is no gallery "
+#~ "available/found with that particular Gallery ID, the shortcode will be "
+#~ "empty."
+#~ msgstr ""
+#~ "Вам нужно вставить ID вашей галереи в шорткод. Он покажет текущего автора "
+#~ "конкретной галереи. Если нет доступной/найденной галереи с этим "
+#~ "конкретным идентификатором галереи, шорткод будет пустым."
+
+#~ msgid "Show gallery images count"
+#~ msgstr "Показать количество изображений в галерее"
+
+#~ msgid ""
+#~ "You need to insert Your Gallery ID in the shortcode. It will show the "
+#~ "images count of the particular gallery. If there is no gallery available/"
+#~ "found with that particular Gallery ID, the shortcode will be empty."
+#~ msgstr ""
+#~ "Вам нужно вставить ID вашей галереи в шорткод. Он покажет количество "
+#~ "изображений в конкретной галерее. Если нет доступной/найденной галереи с "
+#~ "этим конкретным идентификатором галереи, шорткод будет пустым."
+
+#~ msgid "Show gallery images count by category"
+#~ msgstr "Показать количество изображений в галерее по категориям"
+
+#~ msgid ""
+#~ "You need to insert Your Category ID in the shortcode. It will show the "
+#~ "images count of the particular category. If there is no category "
+#~ "available/found with that particular Category ID, the shortcode will be "
+#~ "empty."
+#~ msgstr ""
+#~ "Вам нужно вставить идентификатор вашей категории в шорткод. Он покажет "
+#~ "количество изображений в определенной категории. Если нет доступной/"
+#~ "найденной категории с этим конкретным идентификатором категории, шорткод "
+#~ "будет пустым."
+
+#~ msgid "Show User First Name"
+#~ msgstr "Показать имя пользователя"
+
+#~ msgid ""
+#~ "Shows the logged-in user's First Name. If the user is not logged-in, the "
+#~ "shortcode will be empty."
+#~ msgstr ""
+#~ "Показывает имя вошедшего в систему пользователя. Если пользователь не "
+#~ "вошел в систему, шорткод будет пустым."
+
+#~ msgid "Show User Last Name"
+#~ msgstr "Показать фамилию пользователя"
+
+#~ msgid ""
+#~ "Shows the logged-in user's Last Name. If the user is not logged-in, the "
+#~ "shortcode will be empty."
+#~ msgstr ""
+#~ "Показывает фамилию вошедшего в систему пользователя. Если пользователь не "
+#~ "вошел в систему, шорткод будет пустым."
+
+#~ msgid "Show User Display name"
+#~ msgstr "Показать Отображаемое имя пользователя"
+
+#~ msgid ""
+#~ "Shows the logged-in user's Display name. If the user is not logged-in, "
+#~ "the shortcode will be empty."
+#~ msgstr ""
+#~ "Показывает отображаемое имя вошедшего в систему пользователя. Если "
+#~ "пользователь не вошел в систему, шорткод будет пустым."
+
+#~ msgid "Show User Email"
+#~ msgstr "Показать Адрес Электронной почты Пользователя"
+
+#~ msgid ""
+#~ "Shows the logged-in user's Email. If the user is not logged-in, the "
+#~ "shortcode will be empty."
+#~ msgstr ""
+#~ "Показывает адрес электронной почты вошедшего в систему пользователя. Если "
+#~ "пользователь не вошел в систему, шорткод будет пустым."
+
+#~ msgid "Show User Nickname"
+#~ msgstr "Показать псевдоним пользователя"
+
+#~ msgid ""
+#~ "Shows the logged-in user's Nickname. If the user is not logged-in, the "
+#~ "shortcode will be empty."
+#~ msgstr ""
+#~ "Показывает псевдоним вошедшего в систему пользователя. Если пользователь "
+#~ "не вошел в систему, шорткод будет пустым."
+
+#~ msgid "Gallery categories"
+#~ msgstr "Категории галереи"
+
+#~ msgid ""
+#~ "You need to insert Your Gallery Category ID in the shortcode. It will "
+#~ "show the category title. If there is no gallery category available/"
+#~ "unavailable with that particular Gallery Category ID, the shortcode will "
+#~ "stay empty."
+#~ msgstr ""
+#~ "Вам нужно вставить идентификатор категории вашей галереи в шорткод. Он "
+#~ "покажет название категории. Если нет доступной/недоступной категории "
+#~ "галереи с этим конкретным идентификатором категории галереи, шорткод "
+#~ "останется пустым."
+
+#~ msgid ""
+#~ "You need to insert Your Gallery Category ID in the shortcode. It will "
+#~ "show the category description. If there is no gallery category available/"
+#~ "unavailable with that particular Gallery Category ID, the shortcode will "
+#~ "stay empty."
+#~ msgstr ""
+#~ "Вам нужно вставить идентификатор категории вашей галереи в шорткод. Он "
+#~ "покажет описание категории. Если нет доступной/недоступной категории "
+#~ "галереи с этим конкретным идентификатором категории галереи, шорткод "
+#~ "останется пустым."
+
+#~ msgid ""
+#~ "You can copy these variables and paste them in the following options from "
+#~ "the gallery settings"
+#~ msgstr ""
+#~ "Вы можете скопировать эти переменные и вставить их в следующие параметры "
+#~ "из настроек галереи."
+
+#~ msgid ""
+#~ "The user's first name that was filled in their WordPress site during "
+#~ "registration."
+#~ msgstr ""
+#~ "Имя пользователя, которое было указано на сайте WordPress во время "
+#~ "регистрации."
+
+#~ msgid ""
+#~ "The user's last name that was filled in their WordPress site during "
+#~ "registration."
+#~ msgstr ""
+#~ "Фамилия пользователя, которая была указана на сайте WordPress при "
+#~ "регистрации."
+
+#~ msgid "The user's display name that was filled in their WordPress profile."
+#~ msgstr ""
+#~ "Отображаемое имя пользователя, которое было указано в профиле WordPress."
+
+#~ msgid "The user's nickname that was filled in their WordPress profile."
+#~ msgstr "Ник пользователя, который был указан в его профиле WordPress."
+
+#~ msgid "The user's email that was filled in their WordPress profile."
+#~ msgstr ""
+#~ "Адрес электронной почты пользователя, который был заполнен в его профиле "
+#~ "WordPress."
+
+#~ msgid ""
+#~ "The user's role(s) when logged-in. In case the user is not logged-in, the "
+#~ "field will be empty."
+#~ msgstr ""
+#~ "Роль(роли) пользователя (пользователей) при входе в систему. В случае, "
+#~ "если пользователь не вошел в систему, поле будет пустым."
+
+#~ msgid "The user's IP address."
+#~ msgstr "IP-адрес пользователя."
+
+#~ msgid "Save changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid "Gallery - Photo Gallery"
+#~ msgstr "Галерея - Фотогалерея"
+
+#~ msgid "Something goes wrong please reload page"
+#~ msgstr "Что-то пошло не так, пожалуйста, перезагрузите страницу"
+
+#~ msgid "Loading..."
+#~ msgstr "Загрузка..."
+
+#~ msgid "There are no gallery yet"
+#~ msgstr "Галереи пока нет"
+
+#~ msgid "-Select Gallery-"
+#~ msgstr "-Выбрать галерею-"
+
+#~ msgid ""
+#~ "Limited Time \n"
+#~ "                            <span class='ays-gpg-dicount-wrap-color-"
+#~ "helloween' style='color:#b2ff00;'>60%</span> \n"
+#~ "                            <span>\n"
+#~ "                                SALE on\n"
+#~ "                            </span> \n"
+#~ "                            <br>\n"
+#~ "                            <span style='' class='ays-gpg-helloween-"
+#~ "bundle'>\n"
+#~ "                                <a href='https://ays-pro.com/huge-bundle' "
+#~ "target='_blank' class='ays-gpg-dicount-wrap-color-helloween ays-gpg-"
+#~ "dicount-wrap-text-decoration-helloween' style='display:block; color:"
+#~ "#b2ff00;margin-right:6px;'>\n"
+#~ "                                    Huge Bundle\n"
+#~ "                                </a>\n"
+#~ "                            </span>"
+#~ msgstr ""
+#~ "Limited Time \n"
+#~ "                            <span class='ays-gpg-dicount-wrap-color-"
+#~ "helloween' style='color:#b2ff00;'>60%</span> \n"
+#~ "                            <span>\n"
+#~ "                                SALE on\n"
+#~ "                            </span> \n"
+#~ "                            <br>\n"
+#~ "                            <span style='' class='ays-gpg-helloween-"
+#~ "bundle'>\n"
+#~ "                                <a href='https://ays-pro.com/huge-bundle' "
+#~ "target='_blank' class='ays-gpg-dicount-wrap-color-helloween ays-gpg-"
+#~ "dicount-wrap-text-decoration-helloween' style='display:block; color:"
+#~ "#b2ff00;margin-right:6px;'>\n"
+#~ "                                    Huge Bundle\n"
+#~ "                                </a>\n"
+#~ "                            </span>"
+
+#~ msgid ""
+#~ "Hurry up! \n"
+#~ "                                                <a href='https://ays-pro."
+#~ "com/huge-bundle' target='_blank' style='color:#ffc700;'>\n"
+#~ "                                                    Check it out!\n"
+#~ "                                                </a>"
+#~ msgstr ""
+#~ "Hurry up! \n"
+#~ "                                                <a href='https://ays-pro."
+#~ "com/huge-bundle' target='_blank' style='color:#ffc700;'>\n"
+#~ "                                                    Check it out!\n"
+#~ "                                                </a>"
+
+#~ msgid "Photo Gallery plugin"
+#~ msgstr "Photo Gallery plugin"
+
+#~ msgid "Gallery Category"
+#~ msgstr "Галерея категории"
+
+#~ msgid "Gallery Categories"
+#~ msgstr "Галерея Категории"
+
+#~ msgid "There are no gallery categories yet."
+#~ msgstr "Пока нет никаких категорий галереи."
+
+#~ msgid "Gallery category created."
+#~ msgstr "Категория галереи создана."
+
+#~ msgid "Gallery category saved."
+#~ msgstr "Категория галереи сохранена."
+
+#~ msgid "Gallery category deleted."
+#~ msgstr "Категория галереи удалена."
+
+#~ msgid "Gallery"
+#~ msgstr "Галерея"
+
+#~ msgid "Duplicate"
+#~ msgstr "Дубликат"
+
+#~ msgid "Click to copy"
+#~ msgstr "Нажмите, чтобы скопировать"
+
+#~ msgid "Created"
+#~ msgstr "Созданный"
+
+#~ msgid "Items"
+#~ msgstr "Предметы"
+
+#~ msgid "Gallery created."
+#~ msgstr "Галерея создана."
+
+#~ msgid "Gallery saved."
+#~ msgstr "Галерея сохранена."
+
+#~ msgid "Gallery duplicated."
+#~ msgstr "Галерея продублирована."
+
+#~ msgid "Gallery deleted."
+#~ msgstr "Галерея удалена."
+
+#~ msgid ""
+#~ "You're not allowed to add gallery for more galleries please checkout to "
+#~ msgstr ""
+#~ "Вы не можете добавить галерею, для получения дополнительных галерей "
+#~ "пожалуйста ознакомьтесь с разделом "
+
+#~ msgid "version"
+#~ msgstr "версию"
+
+#~ msgid "Enter the gallery title"
+#~ msgstr "Введите название галереи"
+
+#~ msgid "Title Alignment"
+#~ msgstr "Выравнивание названия"
+
+#~ msgid "Select Gallery"
+#~ msgstr "Выберите галерею"
+
+#~ msgid "The Best Gallery - Photo Gallery Ever"
+#~ msgstr "Лучшая Галерея - Фотогалерея Когда-либо"
+
+#~ msgid "Gallery - Photo Gallery by AYS"
+#~ msgstr "Gallery - Photo Gallery by AYS"
+
+#~ msgid "Please select your gallery from dropdown"
+#~ msgstr "Пожалуйста, выберите свою галерею из выпадающего списка"
+
+#~ msgid "Some of the images haven\\'t been loaded"
+#~ msgstr "Некоторые изображения еще не были загружены"
+
+#~ msgid "Unknown"
+#~ msgstr "Неизвестный"
+
+#~ msgid "Gallery Width (px)"
+#~ msgstr "Ширина галереи (px)"
+
+#~ msgid "Center"
+#~ msgstr "По центру"
+
+#~ msgid "Left"
+#~ msgstr "Слево"
+
+#~ msgid "Right"
+#~ msgstr "Справа"
+
+#~ msgid "Please select gallery"
+#~ msgstr "Пожалуйста, выберите галерею"
+
+#~ msgid "Notification text"
+#~ msgstr "Текст уведомления"
